@@ -1,0 +1,73 @@
+{
+  "format_version": 2,
+  "sample_rate_hz": 1000,
+  "baud_rate": 500000,
+  "channels": [
+    "A0",
+    "A1",
+    "A2"
+  ],
+  "adc_bits": 10,
+  "adc_reference": "Arduino DEFAULT (nominal 5 V)",
+  "packet": {
+    "size_bytes": 14,
+    "sync_hex": "A55A",
+    "endianness": "little",
+    "payload": "uint32 index, uint16 A0, uint16 A1, uint16 A2",
+    "crc": "CRC-16/CCITT-FALSE over payload",
+    "binary_contains": "validated complete packets only"
+  },
+  "first_sample_index": 233853,
+  "last_sample_index": 243020,
+  "missing_sample_groups": 0,
+  "crc_errors_during_record": 0,
+  "discarded_bytes_during_record": 0,
+  "created_at": "2026-09-02T21:44:23.002",
+  "stopped_at": "2026-09-02T21:44:32.169",
+  "mode": "guided_trial",
+  "protocol_session_id": "20260902_214120",
+  "protocol_trial_number": 21,
+  "protocol_total_trials": 31,
+  "protocol_trial_completed": true,
+  "target_label": "휴식",
+  "rows": 9168,
+  "events": [
+    {
+      "sample_index": 233852,
+      "elapsed_seconds": 182.744,
+      "phase": "BASELINE",
+      "target_label": "휴식",
+      "trial_id": 21,
+      "computer_time": "2026-09-02T21:44:23.012"
+    },
+    {
+      "sample_index": 236913,
+      "elapsed_seconds": 185.805,
+      "phase": "READY",
+      "target_label": "휴식",
+      "trial_id": 21,
+      "computer_time": "2026-09-02T21:44:26.075"
+    },
+    {
+      "sample_index": 237960,
+      "elapsed_seconds": 186.852,
+      "phase": "ACTION",
+      "target_label": "휴식",
+      "trial_id": 21,
+      "computer_time": "2026-09-02T21:44:27.121"
+    },
+    {
+      "sample_index": 240991,
+      "elapsed_seconds": 189.883,
+      "phase": "RECOVERY",
+      "target_label": "휴식",
+      "trial_id": 21,
+      "computer_time": "2026-09-02T21:44:30.151"
+    }
+  ],
+  "source_combined_file": "RAW_EMG_무작위_파일럿_20260902_214120_255.csv",
+  "files": {
+    "binary": "RAW_EMG_휴식_무작위_20260902_214120_회차021.bin",
+    "csv": "RAW_EMG_휴식_무작위_20260902_214120_회차021.csv"
+  }
+}

@@ -1,0 +1,20 @@
+﻿퍼플팀 EMG 최종 5상태 모델 학습 결과
+
+검증 방식: chronological_trial_holdout_same_date
+한계: provisional: later trials are held out, but a new electrode attachment is not tested
+완료 세션: 3개
+- 검지 움직임: 80회
+- 중지 움직임: 114회
+- 약지 움직임: 127회
+- 주먹 쥐기: 81회
+- 휴식: 120회
+
+휴식 게이트 시험 균형정확도: 0.850
+RF 5상태 시험 기록 정확도: 0.769
+RF 5상태 시험 macro F1: 0.787
+CNN 5상태 시험 기록 정확도: 0.865
+CNN 5상태 시험 macro F1: 0.872
+권장 모델: 1D CNN
+
+정확도는 창(window) 개수가 아니라 독립된 동작 회차(trial) 기준으로 판독하세요.
+3세션 미만이면 새 전극 부착에 대한 성능은 확정할 수 없습다.

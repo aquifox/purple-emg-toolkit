@@ -1,0 +1,16 @@
+{
+  "activated_at": "2026-09-03T00:12:53",
+  "scope": "latest",
+  "source_run": "C:\\Users\\PC\\Desktop\\퍼플팀_EMG_자료\\EMG_AI\\training_runs\\2026-09-03\\validation_latest_02",
+  "active_directory": "C:\\Users\\PC\\Desktop\\퍼플팀_EMG_자료\\EMG_AI\\outputs_final_5class",
+  "backup_directory": "C:\\Users\\PC\\Desktop\\퍼플팀_EMG_자료\\EMG_AI\\model_backups\\outputs_final_5class_20260903_001253",
+  "created_at": "2026-09-03T00:12:51",
+  "trials": {
+    "검지 움직임": 92,
+    "중지 움직임": 92,
+    "약지 움직임": 90,
+    "주먹 쥐기": 81,
+    "휴식": 96
+  },
+  "recommended_model": "1D CNN"
+}

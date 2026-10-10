@@ -1,0 +1,28 @@
+{
+  "scanned_at": "2026-09-03T00:09:53",
+  "records_root": "C:\\Users\\PC\\Desktop\\퍼플팀_EMG_자료\\raw_records",
+  "healthy": true,
+  "deep_scan": true,
+  "active_trials": 560,
+  "quarantined_trials": 20,
+  "total_rows": 1746630,
+  "duration_minutes_at_1khz": 29.1105,
+  "date_counts": {
+    "2026-08-29": 109,
+    "2026-09-02": 451
+  },
+  "label_counts": {
+    "검지 움직임": 92,
+    "약지 움직임": 127,
+    "주먹 쥐기": 81,
+    "중지 움직임": 126,
+    "휴식": 134
+  },
+  "mode_counts": {
+    "guided_trial": 28,
+    "manual": 532
+  },
+  "partial_files": 0,
+  "error_count": 0,
+  "issues": []
+}

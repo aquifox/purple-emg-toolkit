@@ -1,0 +1,8335 @@
+{
+  "date_folder": "2026-09-02",
+  "checked_sets": 416,
+  "valid_sets": 413,
+  "valid_by_label": {
+    "검지 움직임": 80,
+    "약지 움직임": 90,
+    "주먹 쥐기": 81,
+    "중지 움직임": 80,
+    "휴식": 82
+  },
+  "defective_sets": 3,
+  "defective_by_label": {
+    "주먹 쥐기": 3
+  },
+  "defects_moved_to": "C:\\Users\\PC\\Desktop\\퍼플팀_EMG_자료\\raw_records\\2026-09-02\\결함_제외",
+  "entries": [
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220059_412",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:00:59.415",
+      "rows": 3207,
+      "evaluated_rows": 3207,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        125.0,
+        152.0,
+        177.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220103_434",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:03.435",
+      "rows": 3204,
+      "evaluated_rows": 3204,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        159.0,
+        173.0,
+        173.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220107_156",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:07.157",
+      "rows": 2720,
+      "evaluated_rows": 2720,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        129.0,
+        154.0,
+        211.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220110_278",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:10.279",
+      "rows": 2533,
+      "evaluated_rows": 2533,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        138.0,
+        149.0,
+        188.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220113_249",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:13.250",
+      "rows": 2236,
+      "evaluated_rows": 2236,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        139.0,
+        166.0,
+        211.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220115_889",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:15.890",
+      "rows": 1923,
+      "evaluated_rows": 1923,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        234.0,
+        134.0,
+        187.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220125_365",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:25.366",
+      "rows": 2333,
+      "evaluated_rows": 2333,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        192.0,
+        133.0,
+        209.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220128_754",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:28.755",
+      "rows": 2167,
+      "evaluated_rows": 2167,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        174.0,
+        105.0,
+        220.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220132_486",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:32.487",
+      "rows": 2133,
+      "evaluated_rows": 2133,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        205.0,
+        97.0,
+        208.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220135_325",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:35.327",
+      "rows": 2670,
+      "evaluated_rows": 2670,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        113.0,
+        94.0,
+        208.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220138_979",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:38.981",
+      "rows": 2138,
+      "evaluated_rows": 2138,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        77.0,
+        100.0,
+        230.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220141_654",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:41.655",
+      "rows": 2164,
+      "evaluated_rows": 2164,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        86.0,
+        102.0,
+        265.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220144_304",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:44.305",
+      "rows": 1868,
+      "evaluated_rows": 1868,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        79.0,
+        88.0,
+        216.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220146_582",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:46.583",
+      "rows": 2171,
+      "evaluated_rows": 2171,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        75.0,
+        89.0,
+        185.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220149_165",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:49.166",
+      "rows": 2018,
+      "evaluated_rows": 2018,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        73.0,
+        84.0,
+        227.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220151_540",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:51.542",
+      "rows": 2231,
+      "evaluated_rows": 2231,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        84.0,
+        94.0,
+        222.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220154_262",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:54.263",
+      "rows": 2829,
+      "evaluated_rows": 2829,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        84.0,
+        90.0,
+        241.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220157_643",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:01:57.644",
+      "rows": 2391,
+      "evaluated_rows": 2391,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        73.0,
+        97.0,
+        181.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220200_757",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:02:00.758",
+      "rows": 2076,
+      "evaluated_rows": 2076,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        82.0,
+        87.0,
+        180.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220246_481",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:02:46.482",
+      "rows": 2182,
+      "evaluated_rows": 2182,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        114.0,
+        144.0,
+        198.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220249_608",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:02:49.610",
+      "rows": 2042,
+      "evaluated_rows": 2042,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        86.0,
+        147.0,
+        219.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220252_141",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:02:52.142",
+      "rows": 2766,
+      "evaluated_rows": 2766,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        87.0,
+        116.0,
+        209.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220255_373",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:02:55.375",
+      "rows": 2745,
+      "evaluated_rows": 2745,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        87.0,
+        111.0,
+        185.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220259_671",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:02:59.672",
+      "rows": 2460,
+      "evaluated_rows": 2460,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        59.0,
+        130.0,
+        225.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220302_605",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:02.606",
+      "rows": 2654,
+      "evaluated_rows": 2654,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        92.0,
+        140.0,
+        177.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220305_798",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:05.799",
+      "rows": 2407,
+      "evaluated_rows": 2407,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        89.0,
+        116.0,
+        174.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220308_709",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:08.710",
+      "rows": 2585,
+      "evaluated_rows": 2585,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        66.0,
+        129.0,
+        156.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220311_659",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:11.660",
+      "rows": 2539,
+      "evaluated_rows": 2539,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        65.0,
+        125.0,
+        194.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220314_586",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:14.587",
+      "rows": 2782,
+      "evaluated_rows": 2782,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        77.0,
+        129.0,
+        199.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220317_718",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:17.719",
+      "rows": 2688,
+      "evaluated_rows": 2688,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        62.0,
+        123.0,
+        187.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220320_773",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:20.774",
+      "rows": 2244,
+      "evaluated_rows": 2244,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        76.0,
+        131.0,
+        161.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220323_517",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:23.518",
+      "rows": 2485,
+      "evaluated_rows": 2485,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        61.0,
+        123.0,
+        150.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220326_570",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:26.571",
+      "rows": 2220,
+      "evaluated_rows": 2220,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        74.0,
+        130.0,
+        184.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220329_246",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:29.247",
+      "rows": 2315,
+      "evaluated_rows": 2315,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        59.0,
+        121.0,
+        145.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220350_666",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:50.667",
+      "rows": 2254,
+      "evaluated_rows": 2254,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        125.0,
+        181.0,
+        202.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220353_524",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:53.525",
+      "rows": 2507,
+      "evaluated_rows": 2507,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        105.0,
+        183.0,
+        193.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220356_522",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:56.523",
+      "rows": 2823,
+      "evaluated_rows": 2823,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        117.0,
+        163.0,
+        185.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220359_825",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:03:59.825",
+      "rows": 1895,
+      "evaluated_rows": 1895,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        89.0,
+        147.0,
+        175.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220536_307",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:36.308",
+      "rows": 2480,
+      "evaluated_rows": 2480,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        150.0,
+        146.0,
+        190.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220541_483",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:41.484",
+      "rows": 2125,
+      "evaluated_rows": 2125,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        377.0,
+        127.0,
+        178.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220603_257",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:03.258",
+      "rows": 2510,
+      "evaluated_rows": 2510,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        410.0,
+        130.0,
+        176.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220616_413",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:16.414",
+      "rows": 2466,
+      "evaluated_rows": 2466,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        293.0,
+        129.0,
+        152.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220630_147",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:30.148",
+      "rows": 3047,
+      "evaluated_rows": 3047,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        243.0,
+        146.0,
+        231.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220648_818",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:48.819",
+      "rows": 2142,
+      "evaluated_rows": 2142,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        276.0,
+        170.0,
+        158.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220701_887",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:01.888",
+      "rows": 2256,
+      "evaluated_rows": 2256,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        260.0,
+        167.0,
+        161.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220713_749",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:13.750",
+      "rows": 2713,
+      "evaluated_rows": 2713,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        239.0,
+        140.0,
+        136.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220730_149",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:30.150",
+      "rows": 2437,
+      "evaluated_rows": 2437,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        247.0,
+        164.0,
+        113.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220741_733",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:41.734",
+      "rows": 2148,
+      "evaluated_rows": 2148,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        283.0,
+        144.0,
+        102.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220752_327",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:52.331",
+      "rows": 3013,
+      "evaluated_rows": 3013,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        246.0,
+        166.0,
+        136.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220811_211",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:08:11.212",
+      "rows": 2254,
+      "evaluated_rows": 2254,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        226.0,
+        165.0,
+        118.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220856_789",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:08:56.790",
+      "rows": 2960,
+      "evaluated_rows": 2960,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        145.0,
+        140.0,
+        163.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220908_100",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:08.101",
+      "rows": 2665,
+      "evaluated_rows": 2665,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        154.0,
+        161.0,
+        144.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220921_518",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:21.520",
+      "rows": 3056,
+      "evaluated_rows": 3056,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        118.0,
+        143.0,
+        151.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220934_079",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:34.080",
+      "rows": 2901,
+      "evaluated_rows": 2901,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        110.0,
+        144.0,
+        159.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220947_115",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:47.116",
+      "rows": 2594,
+      "evaluated_rows": 2594,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        107.0,
+        100.0,
+        129.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_220959_970",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:59.974",
+      "rows": 3099,
+      "evaluated_rows": 3099,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        63.0,
+        91.0,
+        131.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_221003_489",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:10:03.490",
+      "rows": 2672,
+      "evaluated_rows": 2672,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        64.0,
+        92.0,
+        112.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_221018_487",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:10:18.488",
+      "rows": 2514,
+      "evaluated_rows": 2514,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        89.0,
+        105.0,
+        95.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_222821_891",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:28:21.893",
+      "rows": 2484,
+      "evaluated_rows": 2484,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        99.0,
+        137.0,
+        79.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_222829_317",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:28:29.318",
+      "rows": 1769,
+      "evaluated_rows": 1769,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        104.0,
+        151.0,
+        76.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_222837_142",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:28:37.143",
+      "rows": 1563,
+      "evaluated_rows": 1563,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        102.0,
+        142.0,
+        102.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_222849_494",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:28:49.495",
+      "rows": 1922,
+      "evaluated_rows": 1922,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        136.0,
+        117.0,
+        63.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_223044_472",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:30:44.474",
+      "rows": 2346,
+      "evaluated_rows": 2346,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        74.0,
+        108.0,
+        175.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_223047_438",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:30:47.439",
+      "rows": 1525,
+      "evaluated_rows": 1525,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        73.0,
+        99.0,
+        106.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_223049_916",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:30:49.917",
+      "rows": 1232,
+      "evaluated_rows": 1232,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        64.0,
+        90.0,
+        56.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_223051_784",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:30:51.785",
+      "rows": 1258,
+      "evaluated_rows": 1258,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        81.0,
+        116.0,
+        89.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_223053_697",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:30:53.699",
+      "rows": 1917,
+      "evaluated_rows": 1917,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        88.0,
+        104.0,
+        96.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_223056_094",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:30:56.095",
+      "rows": 2018,
+      "evaluated_rows": 2018,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        78.0,
+        92.0,
+        91.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_223058_768",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:30:58.769",
+      "rows": 2115,
+      "evaluated_rows": 2115,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        72.0,
+        95.0,
+        90.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_223101_286",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:01.287",
+      "rows": 1963,
+      "evaluated_rows": 1963,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        81.0,
+        92.0,
+        111.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_223103_616",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:03.617",
+      "rows": 2192,
+      "evaluated_rows": 2192,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        74.0,
+        81.0,
+        99.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_223106_159",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:06.160",
+      "rows": 2075,
+      "evaluated_rows": 2075,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        68.0,
+        76.0,
+        88.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_20260902_223108_577",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:08.579",
+      "rows": 1856,
+      "evaluated_rows": 1856,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        72.0,
+        86.0,
+        94.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_무작위_20260902_214120_회차004",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:41:47.578",
+      "rows": 9139,
+      "evaluated_rows": 3028,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        68.0,
+        106.0,
+        163.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_무작위_20260902_214120_회차006",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:42:05.807",
+      "rows": 9170,
+      "evaluated_rows": 3056,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        85.0,
+        108.0,
+        133.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_무작위_20260902_214120_회차011",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:42:51.530",
+      "rows": 9113,
+      "evaluated_rows": 3015,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        224.0,
+        102.0,
+        137.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_무작위_20260902_214120_회차013",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:43:09.795",
+      "rows": 9148,
+      "evaluated_rows": 3024,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        211.0,
+        88.0,
+        185.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_무작위_20260902_214120_회차020",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:44:13.823",
+      "rows": 9179,
+      "evaluated_rows": 3047,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        409.0,
+        93.0,
+        140.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_무작위_20260902_214120_회차022",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:44:32.170",
+      "rows": 9033,
+      "evaluated_rows": 3015,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        376.0,
+        94.0,
+        137.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_검지 움직임_무작위_20260902_214120_회차025",
+      "status": "valid",
+      "reasons": [],
+      "label": "검지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:44:59.507",
+      "rows": 9168,
+      "evaluated_rows": 3045,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        401.0,
+        98.0,
+        124.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_214117_097",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T21:41:17.104",
+      "rows": 3134,
+      "evaluated_rows": 3134,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        56.0,
+        99.0,
+        197.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220427_568",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:27.569",
+      "rows": 2178,
+      "evaluated_rows": 2178,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        199.0,
+        489.0,
+        170.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220430_301",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:30.302",
+      "rows": 2238,
+      "evaluated_rows": 2238,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        190.0,
+        475.0,
+        173.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220433_161",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:33.162",
+      "rows": 2295,
+      "evaluated_rows": 2295,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        202.0,
+        507.0,
+        162.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220436_001",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:36.002",
+      "rows": 2327,
+      "evaluated_rows": 2327,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        211.0,
+        457.0,
+        133.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220438_822",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:38.823",
+      "rows": 2413,
+      "evaluated_rows": 2413,
+      "rail_fraction": [
+        0.0,
+        0.0004144218814753419,
+        0.0
+      ],
+      "raw_range_adc": [
+        184.0,
+        550.0,
+        143.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220441_686",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:41.687",
+      "rows": 2022,
+      "evaluated_rows": 2022,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        156.0,
+        478.0,
+        158.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220444_224",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:44.225",
+      "rows": 2429,
+      "evaluated_rows": 2429,
+      "rail_fraction": [
+        0.0,
+        0.0004116920543433512,
+        0.0
+      ],
+      "raw_range_adc": [
+        186.0,
+        593.0,
+        129.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220447_160",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:47.161",
+      "rows": 2125,
+      "evaluated_rows": 2125,
+      "rail_fraction": [
+        0.0,
+        0.00047058823529411766,
+        0.0
+      ],
+      "raw_range_adc": [
+        150.0,
+        506.0,
+        130.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220449_632",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:49.633",
+      "rows": 2077,
+      "evaluated_rows": 2077,
+      "rail_fraction": [
+        0.0,
+        0.0014443909484833895,
+        0.0
+      ],
+      "raw_range_adc": [
+        170.0,
+        526.0,
+        160.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220452_110",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:52.111",
+      "rows": 2090,
+      "evaluated_rows": 2090,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        160.0,
+        360.0,
+        146.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220454_653",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:54.654",
+      "rows": 1703,
+      "evaluated_rows": 1703,
+      "rail_fraction": [
+        0.0,
+        0.004110393423370522,
+        0.0
+      ],
+      "raw_range_adc": [
+        183.0,
+        597.0,
+        133.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220456_795",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:56.796",
+      "rows": 1897,
+      "evaluated_rows": 1897,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        136.0,
+        550.0,
+        135.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220459_166",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:59.167",
+      "rows": 2083,
+      "evaluated_rows": 2083,
+      "rail_fraction": [
+        0.0,
+        0.00672107537205953,
+        0.0
+      ],
+      "raw_range_adc": [
+        196.0,
+        597.0,
+        188.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220501_585",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:01.586",
+      "rows": 1993,
+      "evaluated_rows": 1993,
+      "rail_fraction": [
+        0.0,
+        0.0010035122930255895,
+        0.0
+      ],
+      "raw_range_adc": [
+        240.0,
+        580.0,
+        137.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220503_928",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:03.929",
+      "rows": 2068,
+      "evaluated_rows": 2068,
+      "rail_fraction": [
+        0.0,
+        0.0019342359767891683,
+        0.0
+      ],
+      "raw_range_adc": [
+        224.0,
+        582.0,
+        153.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220506_315",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:06.316",
+      "rows": 1566,
+      "evaluated_rows": 1566,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        155.0,
+        436.0,
+        143.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220508_335",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:08.336",
+      "rows": 1680,
+      "evaluated_rows": 1680,
+      "rail_fraction": [
+        0.0,
+        0.0011904761904761906,
+        0.0
+      ],
+      "raw_range_adc": [
+        184.0,
+        548.0,
+        162.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220510_434",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:10.435",
+      "rows": 2084,
+      "evaluated_rows": 2084,
+      "rail_fraction": [
+        0.0,
+        0.0033589251439539347,
+        0.0
+      ],
+      "raw_range_adc": [
+        201.0,
+        597.0,
+        124.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220512_977",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:12.978",
+      "rows": 1817,
+      "evaluated_rows": 1817,
+      "rail_fraction": [
+        0.0,
+        0.001651073197578426,
+        0.0
+      ],
+      "raw_range_adc": [
+        213.0,
+        519.0,
+        132.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220515_344",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:15.345",
+      "rows": 1754,
+      "evaluated_rows": 1754,
+      "rail_fraction": [
+        0.0,
+        0.003990877993158495,
+        0.0
+      ],
+      "raw_range_adc": [
+        194.0,
+        597.0,
+        127.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220517_540",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:17.541",
+      "rows": 2457,
+      "evaluated_rows": 2457,
+      "rail_fraction": [
+        0.0,
+        0.001221001221001221,
+        0.0
+      ],
+      "raw_range_adc": [
+        186.0,
+        597.0,
+        113.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220520_499",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:20.500",
+      "rows": 2112,
+      "evaluated_rows": 2112,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        199.0,
+        515.0,
+        151.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220523_139",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:23.140",
+      "rows": 2075,
+      "evaluated_rows": 2075,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        137.0,
+        404.0,
+        148.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220550_518",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:50.519",
+      "rows": 3746,
+      "evaluated_rows": 3746,
+      "rail_fraction": [
+        0.0,
+        0.0005339028296849973,
+        0.0
+      ],
+      "raw_range_adc": [
+        296.0,
+        579.0,
+        167.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220609_386",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:09.387",
+      "rows": 2464,
+      "evaluated_rows": 2464,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        298.0,
+        377.0,
+        134.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220622_609",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:22.610",
+      "rows": 2647,
+      "evaluated_rows": 2647,
+      "rail_fraction": [
+        0.0,
+        0.0018889308651303363,
+        0.0
+      ],
+      "raw_range_adc": [
+        296.0,
+        566.0,
+        151.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220636_362",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:36.363",
+      "rows": 2670,
+      "evaluated_rows": 2670,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        380.0,
+        468.0,
+        122.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220654_619",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:54.620",
+      "rows": 1902,
+      "evaluated_rows": 1902,
+      "rail_fraction": [
+        0.0,
+        0.0005257623554153522,
+        0.0
+      ],
+      "raw_range_adc": [
+        337.0,
+        594.0,
+        114.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220707_280",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:07.281",
+      "rows": 2041,
+      "evaluated_rows": 2041,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        287.0,
+        319.0,
+        91.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220720_331",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:20.333",
+      "rows": 2987,
+      "evaluated_rows": 2987,
+      "rail_fraction": [
+        0.0,
+        0.002678272514228323,
+        0.0
+      ],
+      "raw_range_adc": [
+        320.0,
+        564.0,
+        99.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220736_813",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:36.813",
+      "rows": 1963,
+      "evaluated_rows": 1963,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        298.0,
+        423.0,
+        106.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220747_211",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:47.212",
+      "rows": 1831,
+      "evaluated_rows": 1831,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        284.0,
+        539.0,
+        95.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220801_015",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:08:01.016",
+      "rows": 4460,
+      "evaluated_rows": 4460,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        242.0,
+        258.0,
+        93.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220816_974",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:08:16.975",
+      "rows": 1940,
+      "evaluated_rows": 1940,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        292.0,
+        323.0,
+        122.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220902_953",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:02.954",
+      "rows": 2256,
+      "evaluated_rows": 2256,
+      "rail_fraction": [
+        0.0,
+        0.0013297872340425532,
+        0.0
+      ],
+      "raw_range_adc": [
+        225.0,
+        585.0,
+        141.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220914_552",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:14.553",
+      "rows": 2217,
+      "evaluated_rows": 2217,
+      "rail_fraction": [
+        0.0,
+        0.0018042399639152007,
+        0.0
+      ],
+      "raw_range_adc": [
+        188.0,
+        566.0,
+        154.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220928_135",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:28.136",
+      "rows": 2368,
+      "evaluated_rows": 2368,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        166.0,
+        498.0,
+        132.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220940_046",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:40.047",
+      "rows": 1954,
+      "evaluated_rows": 1954,
+      "rail_fraction": [
+        0.0,
+        0.0015353121801432957,
+        0.0
+      ],
+      "raw_range_adc": [
+        211.0,
+        581.0,
+        127.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_220953_449",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:53.450",
+      "rows": 2102,
+      "evaluated_rows": 2102,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        112.0,
+        227.0,
+        105.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221009_641",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:10:09.642",
+      "rows": 1872,
+      "evaluated_rows": 1872,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        138.0,
+        398.0,
+        93.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221023_361",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:10:23.362",
+      "rows": 1530,
+      "evaluated_rows": 1530,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        131.0,
+        428.0,
+        116.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221415_618",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:15.619",
+      "rows": 3550,
+      "evaluated_rows": 3550,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        148.0,
+        479.0,
+        117.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221426_146",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:26.147",
+      "rows": 1740,
+      "evaluated_rows": 1740,
+      "rail_fraction": [
+        0.0,
+        0.0005747126436781609,
+        0.0
+      ],
+      "raw_range_adc": [
+        182.0,
+        550.0,
+        92.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221431_226",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:31.227",
+      "rows": 2009,
+      "evaluated_rows": 2009,
+      "rail_fraction": [
+        0.0,
+        0.0014932802389248383,
+        0.0
+      ],
+      "raw_range_adc": [
+        189.0,
+        571.0,
+        103.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221435_965",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:35.967",
+      "rows": 1465,
+      "evaluated_rows": 1465,
+      "rail_fraction": [
+        0.0,
+        0.004095563139931741,
+        0.0
+      ],
+      "raw_range_adc": [
+        231.0,
+        597.0,
+        106.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221439_842",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:39.843",
+      "rows": 1397,
+      "evaluated_rows": 1397,
+      "rail_fraction": [
+        0.0,
+        0.006442376521116679,
+        0.0
+      ],
+      "raw_range_adc": [
+        212.0,
+        597.0,
+        94.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221446_561",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:46.562",
+      "rows": 1354,
+      "evaluated_rows": 1354,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        220.0,
+        571.0,
+        112.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221450_060",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:50.061",
+      "rows": 1444,
+      "evaluated_rows": 1444,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        195.0,
+        507.0,
+        113.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221451_958",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:51.959",
+      "rows": 1232,
+      "evaluated_rows": 1232,
+      "rail_fraction": [
+        0.0,
+        0.0016233766233766235,
+        0.0
+      ],
+      "raw_range_adc": [
+        214.0,
+        550.0,
+        93.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221459_563",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:59.564",
+      "rows": 1248,
+      "evaluated_rows": 1248,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        209.0,
+        484.0,
+        104.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221503_019",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:03.021",
+      "rows": 1462,
+      "evaluated_rows": 1462,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        149.0,
+        395.0,
+        104.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221507_568",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:07.570",
+      "rows": 1104,
+      "evaluated_rows": 1104,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        164.0,
+        437.0,
+        98.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221510_720",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:10.721",
+      "rows": 1945,
+      "evaluated_rows": 1945,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        182.0,
+        524.0,
+        97.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221517_915",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:17.916",
+      "rows": 1525,
+      "evaluated_rows": 1525,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        144.0,
+        403.0,
+        89.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221520_054",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:20.055",
+      "rows": 1220,
+      "evaluated_rows": 1220,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        188.0,
+        392.0,
+        85.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221524_740",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:24.741",
+      "rows": 1205,
+      "evaluated_rows": 1205,
+      "rail_fraction": [
+        0.0,
+        0.0016597510373443983,
+        0.0
+      ],
+      "raw_range_adc": [
+        218.0,
+        576.0,
+        101.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221532_104",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:32.106",
+      "rows": 1342,
+      "evaluated_rows": 1342,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        131.0,
+        453.0,
+        88.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221533_760",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:33.761",
+      "rows": 1015,
+      "evaluated_rows": 1015,
+      "rail_fraction": [
+        0.0,
+        0.0019704433497536944,
+        0.0
+      ],
+      "raw_range_adc": [
+        159.0,
+        499.0,
+        131.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221538_266",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:38.267",
+      "rows": 1186,
+      "evaluated_rows": 1186,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        143.0,
+        468.0,
+        91.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221544_964",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:44.965",
+      "rows": 1219,
+      "evaluated_rows": 1219,
+      "rail_fraction": [
+        0.0,
+        0.003281378178835111,
+        0.0
+      ],
+      "raw_range_adc": [
+        206.0,
+        597.0,
+        85.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221548_272",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:48.273",
+      "rows": 1401,
+      "evaluated_rows": 1401,
+      "rail_fraction": [
+        0.0,
+        0.0007137758743754461,
+        0.0
+      ],
+      "raw_range_adc": [
+        182.0,
+        570.0,
+        83.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221552_116",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:52.117",
+      "rows": 1154,
+      "evaluated_rows": 1154,
+      "rail_fraction": [
+        0.0,
+        0.0008665511265164644,
+        0.0
+      ],
+      "raw_range_adc": [
+        211.0,
+        547.0,
+        86.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221555_398",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:55.399",
+      "rows": 1088,
+      "evaluated_rows": 1088,
+      "rail_fraction": [
+        0.0,
+        0.001838235294117647,
+        0.0
+      ],
+      "raw_range_adc": [
+        144.0,
+        593.0,
+        81.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221601_884",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:01.886",
+      "rows": 1406,
+      "evaluated_rows": 1406,
+      "rail_fraction": [
+        0.0,
+        0.0007112375533428165,
+        0.0
+      ],
+      "raw_range_adc": [
+        210.0,
+        551.0,
+        115.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221606_442",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:06.444",
+      "rows": 1031,
+      "evaluated_rows": 1031,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        166.0,
+        457.0,
+        92.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221608_974",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:08.975",
+      "rows": 1575,
+      "evaluated_rows": 1575,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        131.0,
+        346.0,
+        89.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221611_906",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:11.907",
+      "rows": 1586,
+      "evaluated_rows": 1586,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        142.0,
+        465.0,
+        96.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221615_231",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:15.232",
+      "rows": 1156,
+      "evaluated_rows": 1156,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        133.0,
+        207.0,
+        77.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221618_359",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:18.360",
+      "rows": 1445,
+      "evaluated_rows": 1445,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        142.0,
+        345.0,
+        89.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221621_771",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:21.772",
+      "rows": 1168,
+      "evaluated_rows": 1168,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        205.0,
+        367.0,
+        102.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221624_839",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:24.840",
+      "rows": 1116,
+      "evaluated_rows": 1116,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        222.0,
+        392.0,
+        142.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221627_664",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:27.665",
+      "rows": 1293,
+      "evaluated_rows": 1293,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        214.0,
+        365.0,
+        117.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221630_462",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:30.463",
+      "rows": 2149,
+      "evaluated_rows": 2149,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        137.0,
+        302.0,
+        101.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221634_869",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:34.870",
+      "rows": 1120,
+      "evaluated_rows": 1120,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        239.0,
+        413.0,
+        115.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221637_763",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:37.765",
+      "rows": 1783,
+      "evaluated_rows": 1783,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        200.0,
+        436.0,
+        109.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221641_448",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:41.449",
+      "rows": 1363,
+      "evaluated_rows": 1363,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        160.0,
+        442.0,
+        109.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221645_130",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:45.131",
+      "rows": 1063,
+      "evaluated_rows": 1063,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        200.0,
+        354.0,
+        127.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221648_131",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:48.132",
+      "rows": 1252,
+      "evaluated_rows": 1252,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        199.0,
+        502.0,
+        120.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221651_318",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:51.320",
+      "rows": 1378,
+      "evaluated_rows": 1378,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        198.0,
+        358.0,
+        106.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221654_929",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:54.930",
+      "rows": 3285,
+      "evaluated_rows": 3285,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        177.0,
+        395.0,
+        125.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221701_328",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:17:01.330",
+      "rows": 1424,
+      "evaluated_rows": 1424,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        184.0,
+        378.0,
+        111.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_20260902_221703_244",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:17:03.244",
+      "rows": 1228,
+      "evaluated_rows": 1228,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        289.0,
+        355.0,
+        105.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_무작위_20260902_214120_회차001",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:41:20.257",
+      "rows": 9093,
+      "evaluated_rows": 3031,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        165.0,
+        457.0,
+        122.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_무작위_20260902_214120_회차007",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:42:14.977",
+      "rows": 9106,
+      "evaluated_rows": 3024,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        177.0,
+        377.0,
+        117.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_무작위_20260902_214120_회차010",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:42:42.438",
+      "rows": 9092,
+      "evaluated_rows": 3031,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        251.0,
+        447.0,
+        128.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_무작위_20260902_214120_회차016",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:43:37.203",
+      "rows": 9136,
+      "evaluated_rows": 3052,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        271.0,
+        252.0,
+        119.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_무작위_20260902_214120_회차018",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:43:55.437",
+      "rows": 9211,
+      "evaluated_rows": 3063,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        386.0,
+        347.0,
+        117.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_무작위_20260902_214120_회차023",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:44:41.203",
+      "rows": 9150,
+      "evaluated_rows": 3046,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        479.0,
+        380.0,
+        119.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_약지 움직임_무작위_20260902_214120_회차027",
+      "status": "valid",
+      "reasons": [],
+      "label": "약지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:45:17.830",
+      "rows": 9122,
+      "evaluated_rows": 3059,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        491.0,
+        332.0,
+        127.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_222845_002",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:28:45.003",
+      "rows": 2441,
+      "evaluated_rows": 2441,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        323.0,
+        467.0,
+        197.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223118_754",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:18.755",
+      "rows": 2446,
+      "evaluated_rows": 2446,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        182.0,
+        325.0,
+        204.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223121_765",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:21.766",
+      "rows": 2624,
+      "evaluated_rows": 2624,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        174.0,
+        324.0,
+        215.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223125_123",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:25.124",
+      "rows": 2395,
+      "evaluated_rows": 2395,
+      "rail_fraction": [
+        0.0,
+        0.0012526096033402922,
+        0.0
+      ],
+      "raw_range_adc": [
+        225.0,
+        575.0,
+        184.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223128_090",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:28.090",
+      "rows": 2144,
+      "evaluated_rows": 2144,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        192.0,
+        362.0,
+        160.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223130_668",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:30.669",
+      "rows": 1822,
+      "evaluated_rows": 1822,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        189.0,
+        314.0,
+        133.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223132_883",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:32.884",
+      "rows": 1998,
+      "evaluated_rows": 1998,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        157.0,
+        209.0,
+        145.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223135_149",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:35.150",
+      "rows": 2311,
+      "evaluated_rows": 2311,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        222.0,
+        251.0,
+        180.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223137_821",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:37.823",
+      "rows": 2057,
+      "evaluated_rows": 2057,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        168.0,
+        305.0,
+        139.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223140_235",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:40.236",
+      "rows": 2012,
+      "evaluated_rows": 2012,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        210.0,
+        232.0,
+        147.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223142_606",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:42.607",
+      "rows": 2132,
+      "evaluated_rows": 2132,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        93.0,
+        217.0,
+        146.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223145_260",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:45.261",
+      "rows": 1756,
+      "evaluated_rows": 1756,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        117.0,
+        247.0,
+        108.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223147_616",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:47.618",
+      "rows": 1927,
+      "evaluated_rows": 1927,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        102.0,
+        209.0,
+        176.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223150_069",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:50.073",
+      "rows": 2185,
+      "evaluated_rows": 2185,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        104.0,
+        191.0,
+        128.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223152_687",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:52.688",
+      "rows": 1892,
+      "evaluated_rows": 1892,
+      "rail_fraction": [
+        0.0,
+        0.0010570824524312897,
+        0.0
+      ],
+      "raw_range_adc": [
+        238.0,
+        597.0,
+        204.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223155_109",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:55.110",
+      "rows": 1922,
+      "evaluated_rows": 1922,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        132.0,
+        444.0,
+        147.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223157_401",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:31:57.402",
+      "rows": 2290,
+      "evaluated_rows": 2290,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        149.0,
+        269.0,
+        211.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223200_069",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:00.070",
+      "rows": 2016,
+      "evaluated_rows": 2016,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        153.0,
+        372.0,
+        121.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223202_411",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:02.412",
+      "rows": 2032,
+      "evaluated_rows": 2032,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        150.0,
+        225.0,
+        130.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223204_787",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:04.789",
+      "rows": 1801,
+      "evaluated_rows": 1801,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        199.0,
+        205.0,
+        143.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223206_973",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:06.974",
+      "rows": 1589,
+      "evaluated_rows": 1589,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        177.0,
+        437.0,
+        158.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223209_002",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:09.003",
+      "rows": 1808,
+      "evaluated_rows": 1808,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        341.0,
+        386.0,
+        110.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223211_127",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:11.129",
+      "rows": 1609,
+      "evaluated_rows": 1609,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        186.0,
+        479.0,
+        115.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223213_036",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:13.037",
+      "rows": 1881,
+      "evaluated_rows": 1881,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        267.0,
+        514.0,
+        122.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223215_261",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:15.263",
+      "rows": 2158,
+      "evaluated_rows": 2158,
+      "rail_fraction": [
+        0.0,
+        0.0009267840593141798,
+        0.0
+      ],
+      "raw_range_adc": [
+        265.0,
+        597.0,
+        90.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223217_863",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:17.864",
+      "rows": 2034,
+      "evaluated_rows": 2034,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        204.0,
+        492.0,
+        80.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223220_256",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:20.257",
+      "rows": 1421,
+      "evaluated_rows": 1421,
+      "rail_fraction": [
+        0.0,
+        0.00211118930330753,
+        0.0
+      ],
+      "raw_range_adc": [
+        234.0,
+        597.0,
+        85.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223222_043",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:22.044",
+      "rows": 1669,
+      "evaluated_rows": 1669,
+      "rail_fraction": [
+        0.0,
+        0.0035949670461354103,
+        0.0
+      ],
+      "raw_range_adc": [
+        297.0,
+        570.0,
+        74.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223224_048",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:24.050",
+      "rows": 1325,
+      "evaluated_rows": 1325,
+      "rail_fraction": [
+        0.0,
+        0.0015094339622641509,
+        0.0
+      ],
+      "raw_range_adc": [
+        315.0,
+        558.0,
+        71.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223225_705",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:25.706",
+      "rows": 1417,
+      "evaluated_rows": 1417,
+      "rail_fraction": [
+        0.0,
+        0.0028228652081863093,
+        0.0
+      ],
+      "raw_range_adc": [
+        365.0,
+        579.0,
+        99.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223227_502",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:27.503",
+      "rows": 1498,
+      "evaluated_rows": 1498,
+      "rail_fraction": [
+        0.0,
+        0.0020026702269692926,
+        0.0
+      ],
+      "raw_range_adc": [
+        307.0,
+        597.0,
+        82.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223229_310",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:29.311",
+      "rows": 1578,
+      "evaluated_rows": 1578,
+      "rail_fraction": [
+        0.0,
+        0.0012674271229404308,
+        0.0
+      ],
+      "raw_range_adc": [
+        205.0,
+        526.0,
+        61.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223231_334",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:31.335",
+      "rows": 1596,
+      "evaluated_rows": 1596,
+      "rail_fraction": [
+        0.0,
+        0.002506265664160401,
+        0.0
+      ],
+      "raw_range_adc": [
+        278.0,
+        597.0,
+        107.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223233_247",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:33.248",
+      "rows": 1751,
+      "evaluated_rows": 1751,
+      "rail_fraction": [
+        0.0,
+        0.005139920045688178,
+        0.0
+      ],
+      "raw_range_adc": [
+        375.0,
+        597.0,
+        72.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223235_418",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:35.419",
+      "rows": 1570,
+      "evaluated_rows": 1570,
+      "rail_fraction": [
+        0.0,
+        0.0006369426751592356,
+        0.0
+      ],
+      "raw_range_adc": [
+        297.0,
+        597.0,
+        80.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223237_443",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:37.443",
+      "rows": 1611,
+      "evaluated_rows": 1611,
+      "rail_fraction": [
+        0.0,
+        0.0012414649286157666,
+        0.0
+      ],
+      "raw_range_adc": [
+        196.0,
+        591.0,
+        72.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223239_532",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:39.533",
+      "rows": 1765,
+      "evaluated_rows": 1765,
+      "rail_fraction": [
+        0.0,
+        0.0073654390934844195,
+        0.0
+      ],
+      "raw_range_adc": [
+        269.0,
+        597.0,
+        72.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223241_732",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:41.733",
+      "rows": 1378,
+      "evaluated_rows": 1378,
+      "rail_fraction": [
+        0.0,
+        0.0043541364296081275,
+        0.0
+      ],
+      "raw_range_adc": [
+        327.0,
+        597.0,
+        65.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223243_434",
+      "status": "defective",
+      "reasons": [
+        "ADC saturation above 1%: A0=0.00%, A1=1.28%, A2=0.00%"
+      ],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:43.435",
+      "rows": 1561,
+      "evaluated_rows": 1561,
+      "rail_fraction": [
+        0.0,
+        0.012812299807815503,
+        0.0
+      ],
+      "raw_range_adc": [
+        468.0,
+        597.0,
+        78.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223245_327",
+      "status": "defective",
+      "reasons": [
+        "ADC saturation above 1%: A0=0.00%, A1=1.43%, A2=0.00%"
+      ],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:45.328",
+      "rows": 1262,
+      "evaluated_rows": 1262,
+      "rail_fraction": [
+        0.0,
+        0.014263074484944533,
+        0.0
+      ],
+      "raw_range_adc": [
+        351.0,
+        597.0,
+        68.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223246_974",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:46.975",
+      "rows": 1490,
+      "evaluated_rows": 1490,
+      "rail_fraction": [
+        0.0,
+        0.003355704697986577,
+        0.0
+      ],
+      "raw_range_adc": [
+        311.0,
+        570.0,
+        73.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223248_852",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:48.853",
+      "rows": 1463,
+      "evaluated_rows": 1463,
+      "rail_fraction": [
+        0.0,
+        0.005468215994531784,
+        0.0
+      ],
+      "raw_range_adc": [
+        380.0,
+        597.0,
+        64.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223250_691",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:50.692",
+      "rows": 1357,
+      "evaluated_rows": 1357,
+      "rail_fraction": [
+        0.0,
+        0.002210759027266028,
+        0.0
+      ],
+      "raw_range_adc": [
+        268.0,
+        532.0,
+        74.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223252_367",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:52.368",
+      "rows": 1402,
+      "evaluated_rows": 1402,
+      "rail_fraction": [
+        0.0,
+        0.0014265335235378032,
+        0.0
+      ],
+      "raw_range_adc": [
+        245.0,
+        597.0,
+        89.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223254_175",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:54.176",
+      "rows": 1328,
+      "evaluated_rows": 1328,
+      "rail_fraction": [
+        0.0,
+        0.004518072289156626,
+        0.0
+      ],
+      "raw_range_adc": [
+        194.0,
+        575.0,
+        83.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223255_822",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:55.823",
+      "rows": 1328,
+      "evaluated_rows": 1328,
+      "rail_fraction": [
+        0.0,
+        0.0030120481927710845,
+        0.0
+      ],
+      "raw_range_adc": [
+        234.0,
+        597.0,
+        104.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223257_473",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:57.474",
+      "rows": 1671,
+      "evaluated_rows": 1671,
+      "rail_fraction": [
+        0.0,
+        0.0017953321364452424,
+        0.0
+      ],
+      "raw_range_adc": [
+        314.0,
+        569.0,
+        135.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223259_472",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:32:59.473",
+      "rows": 1376,
+      "evaluated_rows": 1376,
+      "rail_fraction": [
+        0.0,
+        0.005813953488372093,
+        0.0
+      ],
+      "raw_range_adc": [
+        304.0,
+        597.0,
+        98.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223301_209",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:33:01.210",
+      "rows": 1398,
+      "evaluated_rows": 1398,
+      "rail_fraction": [
+        0.0,
+        0.00715307582260372,
+        0.0
+      ],
+      "raw_range_adc": [
+        296.0,
+        597.0,
+        104.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223339_690",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:33:39.691",
+      "rows": 1662,
+      "evaluated_rows": 1662,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        153.0,
+        203.0,
+        153.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223341_696",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:33:41.697",
+      "rows": 1634,
+      "evaluated_rows": 1634,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        224.0,
+        284.0,
+        211.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223343_613",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:33:43.614",
+      "rows": 1814,
+      "evaluated_rows": 1814,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        186.0,
+        330.0,
+        180.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223345_767",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:33:45.768",
+      "rows": 1550,
+      "evaluated_rows": 1550,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        158.0,
+        294.0,
+        147.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223347_631",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:33:47.632",
+      "rows": 1529,
+      "evaluated_rows": 1529,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        207.0,
+        542.0,
+        186.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223349_499",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:33:49.500",
+      "rows": 1497,
+      "evaluated_rows": 1497,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        196.0,
+        301.0,
+        124.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223351_347",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:33:51.349",
+      "rows": 1594,
+      "evaluated_rows": 1594,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        169.0,
+        320.0,
+        167.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223353_294",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:33:53.295",
+      "rows": 1563,
+      "evaluated_rows": 1563,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        346.0,
+        322.0,
+        138.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223355_241",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:33:55.242",
+      "rows": 1442,
+      "evaluated_rows": 1442,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        278.0,
+        514.0,
+        166.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223357_093",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:33:57.094",
+      "rows": 1738,
+      "evaluated_rows": 1738,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        201.0,
+        247.0,
+        176.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223359_157",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:33:59.158",
+      "rows": 1399,
+      "evaluated_rows": 1399,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        247.0,
+        348.0,
+        159.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223400_907",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:00.908",
+      "rows": 1347,
+      "evaluated_rows": 1347,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        214.0,
+        499.0,
+        160.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223402_635",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:02.636",
+      "rows": 1612,
+      "evaluated_rows": 1612,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        233.0,
+        241.0,
+        190.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223404_540",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:04.541",
+      "rows": 1420,
+      "evaluated_rows": 1420,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        159.0,
+        236.0,
+        139.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223406_328",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:06.329",
+      "rows": 1461,
+      "evaluated_rows": 1461,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        245.0,
+        494.0,
+        153.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223408_135",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:08.137",
+      "rows": 1767,
+      "evaluated_rows": 1767,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        293.0,
+        378.0,
+        155.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223410_245",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:10.247",
+      "rows": 1344,
+      "evaluated_rows": 1344,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        162.0,
+        240.0,
+        138.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223411_957",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:11.958",
+      "rows": 1927,
+      "evaluated_rows": 1927,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        168.0,
+        254.0,
+        172.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223415_094",
+      "status": "defective",
+      "reasons": [
+        "shorter than 1 second: 339 samples"
+      ],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:15.095",
+      "rows": 339,
+      "evaluated_rows": 339
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223416_063",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:16.064",
+      "rows": 1677,
+      "evaluated_rows": 1677,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        133.0,
+        284.0,
+        143.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223418_106",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:18.107",
+      "rows": 1801,
+      "evaluated_rows": 1801,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        157.0,
+        277.0,
+        171.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223420_386",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:20.387",
+      "rows": 2057,
+      "evaluated_rows": 2057,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        111.0,
+        225.0,
+        150.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223422_990",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:22.991",
+      "rows": 1584,
+      "evaluated_rows": 1584,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        163.0,
+        221.0,
+        134.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223424_908",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:24.909",
+      "rows": 1635,
+      "evaluated_rows": 1635,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        162.0,
+        259.0,
+        131.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223426_922",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:26.923",
+      "rows": 1785,
+      "evaluated_rows": 1785,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        185.0,
+        244.0,
+        104.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223429_032",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:29.033",
+      "rows": 2048,
+      "evaluated_rows": 2048,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        181.0,
+        261.0,
+        117.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223431_414",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:31.415",
+      "rows": 1943,
+      "evaluated_rows": 1943,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        283.0,
+        342.0,
+        163.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223433_710",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:33.712",
+      "rows": 2041,
+      "evaluated_rows": 2041,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        159.0,
+        248.0,
+        116.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223437_724",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:37.725",
+      "rows": 1856,
+      "evaluated_rows": 1856,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        221.0,
+        386.0,
+        136.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223439_888",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:39.889",
+      "rows": 1762,
+      "evaluated_rows": 1762,
+      "rail_fraction": [
+        0.0,
+        0.0011350737797956867,
+        0.0
+      ],
+      "raw_range_adc": [
+        321.0,
+        597.0,
+        135.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223441_933",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:41.934",
+      "rows": 1422,
+      "evaluated_rows": 1422,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        314.0,
+        290.0,
+        112.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223443_712",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:43.714",
+      "rows": 1190,
+      "evaluated_rows": 1190,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        252.0,
+        266.0,
+        127.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223446_334",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:46.335",
+      "rows": 2060,
+      "evaluated_rows": 2060,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        258.0,
+        505.0,
+        139.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223448_766",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:48.767",
+      "rows": 1726,
+      "evaluated_rows": 1726,
+      "rail_fraction": [
+        0.0,
+        0.0005793742757821553,
+        0.0
+      ],
+      "raw_range_adc": [
+        286.0,
+        516.0,
+        193.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_주먹 쥐기_20260902_223451_107",
+      "status": "valid",
+      "reasons": [],
+      "label": "주먹 쥐기",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:34:51.108",
+      "rows": 1248,
+      "evaluated_rows": 1248,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        312.0,
+        516.0,
+        190.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220408_635",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:08.636",
+      "rows": 2823,
+      "evaluated_rows": 2823,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        100.0,
+        146.0,
+        210.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220411_996",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:11.997",
+      "rows": 1776,
+      "evaluated_rows": 1776,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        144.0,
+        174.0,
+        278.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220415_481",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:15.482",
+      "rows": 2496,
+      "evaluated_rows": 2496,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        159.0,
+        165.0,
+        236.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220418_665",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:18.666",
+      "rows": 2414,
+      "evaluated_rows": 2414,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        157.0,
+        179.0,
+        321.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220421_705",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:21.705",
+      "rows": 2672,
+      "evaluated_rows": 2672,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        161.0,
+        147.0,
+        222.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220425_003",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:25.004",
+      "rows": 2025,
+      "evaluated_rows": 2025,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        122.0,
+        157.0,
+        193.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220544_061",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:44.063",
+      "rows": 2569,
+      "evaluated_rows": 2569,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        256.0,
+        149.0,
+        206.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220547_642",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:47.643",
+      "rows": 2422,
+      "evaluated_rows": 2422,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        239.0,
+        135.0,
+        176.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220606_273",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:06.274",
+      "rows": 2665,
+      "evaluated_rows": 2665,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        284.0,
+        151.0,
+        290.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220619_372",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:19.373",
+      "rows": 2733,
+      "evaluated_rows": 2733,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        301.0,
+        131.0,
+        176.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220633_778",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:33.779",
+      "rows": 2055,
+      "evaluated_rows": 2055,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        428.0,
+        127.0,
+        159.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220651_911",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:51.912",
+      "rows": 1886,
+      "evaluated_rows": 1886,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        291.0,
+        173.0,
+        173.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220704_556",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:04.557",
+      "rows": 2258,
+      "evaluated_rows": 2258,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        252.0,
+        146.0,
+        221.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220716_942",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:16.943",
+      "rows": 2919,
+      "evaluated_rows": 2919,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        228.0,
+        127.0,
+        136.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220733_129",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:33.130",
+      "rows": 3299,
+      "evaluated_rows": 3299,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        246.0,
+        152.0,
+        157.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220744_296",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:44.297",
+      "rows": 2496,
+      "evaluated_rows": 2496,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        263.0,
+        154.0,
+        180.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220755_812",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:55.813",
+      "rows": 4612,
+      "evaluated_rows": 4612,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        261.0,
+        168.0,
+        139.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220814_139",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:08:14.140",
+      "rows": 2183,
+      "evaluated_rows": 2183,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        233.0,
+        159.0,
+        173.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220900_123",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:00.124",
+      "rows": 2386,
+      "evaluated_rows": 2386,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        132.0,
+        152.0,
+        217.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220911_230",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:11.232",
+      "rows": 2903,
+      "evaluated_rows": 2903,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        159.0,
+        177.0,
+        209.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220924_937",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:24.938",
+      "rows": 2827,
+      "evaluated_rows": 2827,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        122.0,
+        183.0,
+        179.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220937_320",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:37.321",
+      "rows": 2171,
+      "evaluated_rows": 2171,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        117.0,
+        174.0,
+        209.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_220950_186",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:50.187",
+      "rows": 2790,
+      "evaluated_rows": 2790,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        88.0,
+        91.0,
+        120.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221006_693",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:10:06.695",
+      "rows": 2537,
+      "evaluated_rows": 2537,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        92.0,
+        127.0,
+        160.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221021_352",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:10:21.353",
+      "rows": 1683,
+      "evaluated_rows": 1683,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        80.0,
+        113.0,
+        152.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221420_311",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:20.312",
+      "rows": 2179,
+      "evaluated_rows": 2179,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        153.0,
+        106.0,
+        173.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221428_452",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:28.453",
+      "rows": 2368,
+      "evaluated_rows": 2368,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        138.0,
+        121.0,
+        150.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221433_622",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:33.623",
+      "rows": 1973,
+      "evaluated_rows": 1973,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        146.0,
+        139.0,
+        314.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221437_719",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:37.720",
+      "rows": 1799,
+      "evaluated_rows": 1799,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        166.0,
+        153.0,
+        201.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221441_594",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:41.596",
+      "rows": 1666,
+      "evaluated_rows": 1666,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        224.0,
+        139.0,
+        266.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221443_736",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:43.737",
+      "rows": 2542,
+      "evaluated_rows": 2542,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        157.0,
+        153.0,
+        276.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221448_222",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:48.223",
+      "rows": 1547,
+      "evaluated_rows": 1547,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        157.0,
+        130.0,
+        298.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221453_505",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:53.506",
+      "rows": 1781,
+      "evaluated_rows": 1781,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        164.0,
+        148.0,
+        212.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221455_655",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:55.656",
+      "rows": 1721,
+      "evaluated_rows": 1721,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        149.0,
+        154.0,
+        230.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221457_822",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:14:57.823",
+      "rows": 1410,
+      "evaluated_rows": 1410,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        142.0,
+        140.0,
+        277.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221501_200",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:01.201",
+      "rows": 1532,
+      "evaluated_rows": 1532,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        142.0,
+        139.0,
+        306.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221509_057",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:09.058",
+      "rows": 1337,
+      "evaluated_rows": 1337,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        136.0,
+        123.0,
+        227.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221512_879",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:12.880",
+      "rows": 1858,
+      "evaluated_rows": 1858,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        167.0,
+        120.0,
+        168.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221516_089",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:16.091",
+      "rows": 1349,
+      "evaluated_rows": 1349,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        132.0,
+        120.0,
+        173.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221521_482",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:21.483",
+      "rows": 1319,
+      "evaluated_rows": 1319,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        123.0,
+        107.0,
+        217.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221523_102",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:23.103",
+      "rows": 1280,
+      "evaluated_rows": 1280,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        135.0,
+        119.0,
+        300.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221527_673",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:27.674",
+      "rows": 1584,
+      "evaluated_rows": 1584,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        102.0,
+        133.0,
+        178.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221529_583",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:29.585",
+      "rows": 2066,
+      "evaluated_rows": 2066,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        123.0,
+        188.0,
+        210.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221535_103",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:35.104",
+      "rows": 1378,
+      "evaluated_rows": 1378,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        120.0,
+        106.0,
+        189.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221541_297",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:41.298",
+      "rows": 1442,
+      "evaluated_rows": 1442,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        119.0,
+        143.0,
+        223.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221543_058",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:43.060",
+      "rows": 1573,
+      "evaluated_rows": 1573,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        106.0,
+        117.0,
+        200.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221546_503",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:46.505",
+      "rows": 1376,
+      "evaluated_rows": 1376,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        98.0,
+        101.0,
+        216.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221550_029",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:50.030",
+      "rows": 1559,
+      "evaluated_rows": 1559,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        133.0,
+        108.0,
+        193.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221553_618",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:53.619",
+      "rows": 1492,
+      "evaluated_rows": 1492,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        133.0,
+        125.0,
+        185.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221556_818",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:15:56.819",
+      "rows": 1518,
+      "evaluated_rows": 1518,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        104.0,
+        95.0,
+        143.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221600_040",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:00.041",
+      "rows": 1575,
+      "evaluated_rows": 1575,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        130.0,
+        111.0,
+        292.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221605_056",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:05.057",
+      "rows": 1078,
+      "evaluated_rows": 1078,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        127.0,
+        105.0,
+        230.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221610_843",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:10.844",
+      "rows": 1058,
+      "evaluated_rows": 1058,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        117.0,
+        87.0,
+        182.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221613_497",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:13.498",
+      "rows": 1261,
+      "evaluated_rows": 1261,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        117.0,
+        91.0,
+        217.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221616_765",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:16.766",
+      "rows": 1331,
+      "evaluated_rows": 1331,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        115.0,
+        110.0,
+        229.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221620_170",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:20.171",
+      "rows": 1296,
+      "evaluated_rows": 1296,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        111.0,
+        107.0,
+        244.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221623_328",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:23.329",
+      "rows": 1131,
+      "evaluated_rows": 1131,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        183.0,
+        114.0,
+        270.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221626_247",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:26.248",
+      "rows": 1102,
+      "evaluated_rows": 1102,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        103.0,
+        88.0,
+        256.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221629_442",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:29.443",
+      "rows": 1017,
+      "evaluated_rows": 1017,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        133.0,
+        96.0,
+        352.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221633_015",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:33.016",
+      "rows": 1511,
+      "evaluated_rows": 1511,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        143.0,
+        84.0,
+        286.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221636_354",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:36.355",
+      "rows": 1170,
+      "evaluated_rows": 1170,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        130.0,
+        93.0,
+        200.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221639_860",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:39.861",
+      "rows": 1264,
+      "evaluated_rows": 1264,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        152.0,
+        97.0,
+        248.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221643_210",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:43.211",
+      "rows": 1466,
+      "evaluated_rows": 1466,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        137.0,
+        94.0,
+        301.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221646_449",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:46.450",
+      "rows": 1459,
+      "evaluated_rows": 1459,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        171.0,
+        105.0,
+        368.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221649_877",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:49.878",
+      "rows": 1188,
+      "evaluated_rows": 1188,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        134.0,
+        104.0,
+        262.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221652_930",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:52.931",
+      "rows": 1782,
+      "evaluated_rows": 1782,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        122.0,
+        94.0,
+        242.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221659_682",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:16:59.683",
+      "rows": 1385,
+      "evaluated_rows": 1385,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        106.0,
+        91.0,
+        240.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221704_745",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:17:04.746",
+      "rows": 1193,
+      "evaluated_rows": 1193,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        122.0,
+        96.0,
+        259.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_221706_137",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:17:06.138",
+      "rows": 1134,
+      "evaluated_rows": 1134,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        143.0,
+        96.0,
+        300.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_222824_775",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:28:24.777",
+      "rows": 1785,
+      "evaluated_rows": 1785,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        89.0,
+        123.0,
+        124.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_222831_542",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:28:31.543",
+      "rows": 1579,
+      "evaluated_rows": 1579,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        99.0,
+        151.0,
+        123.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_222838_970",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:28:38.971",
+      "rows": 1442,
+      "evaluated_rows": 1442,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        102.0,
+        148.0,
+        110.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_20260902_222851_755",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:28:51.756",
+      "rows": 1709,
+      "evaluated_rows": 1709,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        180.0,
+        139.0,
+        153.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_무작위_20260902_214120_회차002",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:41:29.350",
+      "rows": 9076,
+      "evaluated_rows": 3047,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        89.0,
+        137.0,
+        233.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_무작위_20260902_214120_회차008",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:42:24.083",
+      "rows": 9155,
+      "evaluated_rows": 3054,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        128.0,
+        132.0,
+        268.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_무작위_20260902_214120_회차012",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:43:00.643",
+      "rows": 9152,
+      "evaluated_rows": 3049,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        215.0,
+        119.0,
+        264.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_무작위_20260902_214120_회차014",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:43:18.943",
+      "rows": 9122,
+      "evaluated_rows": 3014,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        227.0,
+        118.0,
+        229.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_무작위_20260902_214120_회차019",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:44:04.648",
+      "rows": 9175,
+      "evaluated_rows": 3012,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        339.0,
+        98.0,
+        229.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_무작위_20260902_214120_회차024",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:44:50.353",
+      "rows": 9154,
+      "evaluated_rows": 3028,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        431.0,
+        110.0,
+        276.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_중지 움직임_무작위_20260902_214120_회차026",
+      "status": "valid",
+      "reasons": [],
+      "label": "중지 움직임",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:45:08.675",
+      "rows": 9155,
+      "evaluated_rows": 3047,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        442.0,
+        103.0,
+        348.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220402_823",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:04:02.824",
+      "rows": 4967,
+      "evaluated_rows": 4967,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        369.0,
+        149.0,
+        248.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220526_186",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:26.187",
+      "rows": 5353,
+      "evaluated_rows": 5353,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        186.0,
+        127.0,
+        320.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220555_110",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:05:55.110",
+      "rows": 7428,
+      "evaluated_rows": 7428,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        280.0,
+        121.0,
+        293.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220612_714",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:12.715",
+      "rows": 3262,
+      "evaluated_rows": 3262,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        244.0,
+        114.0,
+        133.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220625_711",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:25.712",
+      "rows": 3888,
+      "evaluated_rows": 3888,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        367.0,
+        118.0,
+        249.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220639_548",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:39.549",
+      "rows": 4334,
+      "evaluated_rows": 4334,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        311.0,
+        117.0,
+        220.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220657_215",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:06:57.216",
+      "rows": 3963,
+      "evaluated_rows": 3963,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        237.0,
+        119.0,
+        100.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220709_744",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:09.745",
+      "rows": 3508,
+      "evaluated_rows": 3508,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        246.0,
+        114.0,
+        90.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220723_791",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:23.792",
+      "rows": 5911,
+      "evaluated_rows": 5911,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        246.0,
+        115.0,
+        81.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220739_273",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:39.274",
+      "rows": 2195,
+      "evaluated_rows": 2195,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        248.0,
+        118.0,
+        103.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220749_047",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:07:49.048",
+      "rows": 2921,
+      "evaluated_rows": 2921,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        255.0,
+        135.0,
+        90.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220805_983",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:08:05.984",
+      "rows": 4709,
+      "evaluated_rows": 4709,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        236.0,
+        138.0,
+        91.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220819_384",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:08:19.385",
+      "rows": 4293,
+      "evaluated_rows": 4293,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        272.0,
+        131.0,
+        372.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220905_751",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:05.752",
+      "rows": 1789,
+      "evaluated_rows": 1789,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        120.0,
+        125.0,
+        137.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220917_271",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:17.272",
+      "rows": 3856,
+      "evaluated_rows": 3856,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        115.0,
+        128.0,
+        138.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220930_982",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:30.983",
+      "rows": 2691,
+      "evaluated_rows": 2691,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        110.0,
+        122.0,
+        117.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220942_406",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:42.407",
+      "rows": 3038,
+      "evaluated_rows": 3038,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        128.0,
+        111.0,
+        133.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_220956_070",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:09:56.071",
+      "rows": 3147,
+      "evaluated_rows": 3147,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        64.0,
+        75.0,
+        90.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221012_124",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:10:12.125",
+      "rows": 5952,
+      "evaluated_rows": 5952,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        55.0,
+        71.0,
+        95.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221749_635",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:17:49.636",
+      "rows": 1902,
+      "evaluated_rows": 1902,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        129.0,
+        70.0,
+        76.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221751_942",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:17:51.943",
+      "rows": 1574,
+      "evaluated_rows": 1574,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        119.0,
+        67.0,
+        103.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221753_911",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:17:53.912",
+      "rows": 1707,
+      "evaluated_rows": 1707,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        97.0,
+        68.0,
+        71.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221756_882",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:17:56.883",
+      "rows": 2315,
+      "evaluated_rows": 2315,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        203.0,
+        98.0,
+        196.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221759_678",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:17:59.679",
+      "rows": 2099,
+      "evaluated_rows": 2099,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        225.0,
+        76.0,
+        169.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221802_427",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:02.428",
+      "rows": 1367,
+      "evaluated_rows": 1367,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        179.0,
+        196.0,
+        186.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221804_571",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:04.572",
+      "rows": 1959,
+      "evaluated_rows": 1959,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        320.0,
+        107.0,
+        218.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221808_866",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:08.867",
+      "rows": 2663,
+      "evaluated_rows": 2663,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        124.0,
+        143.0,
+        308.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221815_770",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:15.771",
+      "rows": 2075,
+      "evaluated_rows": 2075,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        204.0,
+        156.0,
+        324.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221818_303",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:18.304",
+      "rows": 1950,
+      "evaluated_rows": 1950,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        154.0,
+        124.0,
+        325.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221820_771",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:20.772",
+      "rows": 3630,
+      "evaluated_rows": 3630,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        151.0,
+        80.0,
+        250.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221824_910",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:24.912",
+      "rows": 3082,
+      "evaluated_rows": 3082,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        116.0,
+        77.0,
+        195.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221828_487",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:28.489",
+      "rows": 3376,
+      "evaluated_rows": 3376,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        180.0,
+        91.0,
+        223.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221832_448",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:32.449",
+      "rows": 3452,
+      "evaluated_rows": 3452,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        154.0,
+        57.0,
+        248.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221836_347",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:36.348",
+      "rows": 3694,
+      "evaluated_rows": 3694,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        130.0,
+        89.0,
+        224.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221840_481",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:40.482",
+      "rows": 1781,
+      "evaluated_rows": 1781,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        95.0,
+        56.0,
+        177.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221843_113",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:43.114",
+      "rows": 3206,
+      "evaluated_rows": 3206,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        113.0,
+        51.0,
+        313.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221851_418",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:51.419",
+      "rows": 1483,
+      "evaluated_rows": 1483,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        49.0,
+        34.0,
+        110.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221853_299",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:53.300",
+      "rows": 1817,
+      "evaluated_rows": 1817,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        44.0,
+        30.0,
+        113.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221857_673",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:57.674",
+      "rows": 1683,
+      "evaluated_rows": 1683,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        43.0,
+        32.0,
+        112.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221859_666",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:18:59.670",
+      "rows": 1591,
+      "evaluated_rows": 1591,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        44.0,
+        33.0,
+        112.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221901_580",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:01.581",
+      "rows": 1636,
+      "evaluated_rows": 1636,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        45.0,
+        34.0,
+        112.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221903_570",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:03.571",
+      "rows": 1397,
+      "evaluated_rows": 1397,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        45.0,
+        36.0,
+        114.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221905_490",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:05.491",
+      "rows": 1838,
+      "evaluated_rows": 1838,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        45.0,
+        36.0,
+        113.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221907_638",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:07.639",
+      "rows": 1474,
+      "evaluated_rows": 1474,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        45.0,
+        36.0,
+        112.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221909_476",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:09.477",
+      "rows": 1579,
+      "evaluated_rows": 1579,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        45.0,
+        39.0,
+        114.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221911_426",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:11.427",
+      "rows": 1779,
+      "evaluated_rows": 1779,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        46.0,
+        40.0,
+        115.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221913_565",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:13.567",
+      "rows": 1627,
+      "evaluated_rows": 1627,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        47.0,
+        40.0,
+        113.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221915_570",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:15.571",
+      "rows": 2026,
+      "evaluated_rows": 2026,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        47.0,
+        40.0,
+        114.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221917_992",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:17.993",
+      "rows": 2183,
+      "evaluated_rows": 2183,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        48.0,
+        42.0,
+        115.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221920_575",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:20.575",
+      "rows": 2119,
+      "evaluated_rows": 2119,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        49.0,
+        42.0,
+        114.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221923_058",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:23.059",
+      "rows": 2067,
+      "evaluated_rows": 2067,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        50.0,
+        44.0,
+        117.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221925_524",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:25.525",
+      "rows": 2117,
+      "evaluated_rows": 2117,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        52.0,
+        44.0,
+        117.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221927_999",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:28.000",
+      "rows": 2148,
+      "evaluated_rows": 2148,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        53.0,
+        44.0,
+        117.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221930_516",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:30.517",
+      "rows": 2032,
+      "evaluated_rows": 2032,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        52.0,
+        44.0,
+        117.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221932_878",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:32.880",
+      "rows": 1675,
+      "evaluated_rows": 1675,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        53.0,
+        46.0,
+        118.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221934_801",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:34.802",
+      "rows": 1701,
+      "evaluated_rows": 1701,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        54.0,
+        46.0,
+        118.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221939_169",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:39.170",
+      "rows": 2757,
+      "evaluated_rows": 2757,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        64.0,
+        47.0,
+        106.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221942_324",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:42.325",
+      "rows": 1710,
+      "evaluated_rows": 1710,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        227.0,
+        64.0,
+        170.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221944_535",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:44.536",
+      "rows": 3591,
+      "evaluated_rows": 3591,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        188.0,
+        74.0,
+        244.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221949_006",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:49.007",
+      "rows": 2699,
+      "evaluated_rows": 2699,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        170.0,
+        72.0,
+        201.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221952_179",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:52.180",
+      "rows": 1609,
+      "evaluated_rows": 1609,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        202.0,
+        66.0,
+        189.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221954_446",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:54.447",
+      "rows": 3147,
+      "evaluated_rows": 3147,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        254.0,
+        66.0,
+        206.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_221959_250",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:19:59.251",
+      "rows": 2290,
+      "evaluated_rows": 2290,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        119.0,
+        41.0,
+        107.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_222004_376",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:20:04.377",
+      "rows": 4384,
+      "evaluated_rows": 4384,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        188.0,
+        50.0,
+        109.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_222009_375",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:20:09.376",
+      "rows": 3942,
+      "evaluated_rows": 3942,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        115.0,
+        40.0,
+        111.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_222014_229",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:20:14.230",
+      "rows": 2684,
+      "evaluated_rows": 2684,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        100.0,
+        39.0,
+        109.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_222017_728",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:20:17.729",
+      "rows": 1282,
+      "evaluated_rows": 1282,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        90.0,
+        55.0,
+        102.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_222019_484",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:20:19.485",
+      "rows": 2499,
+      "evaluated_rows": 2499,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        86.0,
+        44.0,
+        104.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_222022_398",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:20:22.399",
+      "rows": 2021,
+      "evaluated_rows": 2021,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        92.0,
+        45.0,
+        101.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_222024_770",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:20:24.771",
+      "rows": 2233,
+      "evaluated_rows": 2233,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        78.0,
+        42.0,
+        100.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_222027_379",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:20:27.380",
+      "rows": 1954,
+      "evaluated_rows": 1954,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        73.0,
+        41.0,
+        107.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_222827_333",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:28:27.334",
+      "rows": 1554,
+      "evaluated_rows": 1554,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        71.0,
+        75.0,
+        30.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_222834_075",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:28:34.076",
+      "rows": 2123,
+      "evaluated_rows": 2123,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        69.0,
+        76.0,
+        34.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_222841_729",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:28:41.730",
+      "rows": 2899,
+      "evaluated_rows": 2899,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        66.0,
+        72.0,
+        37.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_20260902_222853_839",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "manual",
+      "created_at": "2026-09-02T22:28:53.840",
+      "rows": 1988,
+      "evaluated_rows": 1988,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        69.0,
+        58.0,
+        28.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_무작위_20260902_214120_회차003",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:41:38.426",
+      "rows": 9152,
+      "evaluated_rows": 3047,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        21.0,
+        65.0,
+        98.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_무작위_20260902_214120_회차005",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:41:56.717",
+      "rows": 9090,
+      "evaluated_rows": 3027,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        56.0,
+        99.0,
+        140.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_무작위_20260902_214120_회차009",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:42:33.238",
+      "rows": 9200,
+      "evaluated_rows": 3051,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        115.0,
+        65.0,
+        99.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_무작위_20260902_214120_회차015",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:43:28.065",
+      "rows": 9138,
+      "evaluated_rows": 3012,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        180.0,
+        71.0,
+        90.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_무작위_20260902_214120_회차017",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:43:46.339",
+      "rows": 9098,
+      "evaluated_rows": 3003,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        231.0,
+        136.0,
+        212.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_무작위_20260902_214120_회차021",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:44:23.002",
+      "rows": 9168,
+      "evaluated_rows": 3031,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        353.0,
+        59.0,
+        99.0
+      ]
+    },
+    {
+      "base": "RAW_EMG_휴식_무작위_20260902_214120_회차028",
+      "status": "valid",
+      "reasons": [],
+      "label": "휴식",
+      "mode": "guided_trial",
+      "created_at": "2026-09-02T21:45:26.952",
+      "rows": 9175,
+      "evaluated_rows": 3051,
+      "rail_fraction": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "raw_range_adc": [
+        436.0,
+        43.0,
+        120.0
+      ]
+    }
+  ]
+}

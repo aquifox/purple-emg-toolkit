@@ -1,0 +1,9 @@
+Purple EMG Toolkit
+Copyright 2026 Purple Team contributors
+
+This distribution contains surface-EMG acquisition, dataset, training, and
+inference software developed for a Korean high-school science research project.
+
+Third-party Python packages are not vendored. They retain their respective
+licenses and are installed separately through requirements.txt.
+

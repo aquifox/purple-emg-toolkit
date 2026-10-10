@@ -1,0 +1,73 @@
+{
+  "format_version": 2,
+  "sample_rate_hz": 1000,
+  "baud_rate": 500000,
+  "channels": [
+    "A0",
+    "A1",
+    "A2"
+  ],
+  "adc_bits": 10,
+  "adc_reference": "Arduino DEFAULT (nominal 5 V)",
+  "packet": {
+    "size_bytes": 14,
+    "sync_hex": "A55A",
+    "endianness": "little",
+    "payload": "uint32 index, uint16 A0, uint16 A1, uint16 A2",
+    "crc": "CRC-16/CCITT-FALSE over payload",
+    "binary_contains": "validated complete packets only"
+  },
+  "first_sample_index": 96658,
+  "last_sample_index": 105827,
+  "missing_sample_groups": 0,
+  "crc_errors_during_record": 0,
+  "discarded_bytes_during_record": 0,
+  "created_at": "2026-09-02T21:42:05.807",
+  "stopped_at": "2026-09-02T21:42:14.976",
+  "mode": "guided_trial",
+  "protocol_session_id": "20260902_214120",
+  "protocol_trial_number": 6,
+  "protocol_total_trials": 31,
+  "protocol_trial_completed": true,
+  "target_label": "검지 움직임",
+  "rows": 9170,
+  "events": [
+    {
+      "sample_index": 96657,
+      "elapsed_seconds": 45.549,
+      "phase": "BASELINE",
+      "target_label": "검지 움직임",
+      "trial_id": 6,
+      "computer_time": "2026-09-02T21:42:05.810"
+    },
+    {
+      "sample_index": 99690,
+      "elapsed_seconds": 48.582,
+      "phase": "READY",
+      "target_label": "검지 움직임",
+      "trial_id": 6,
+      "computer_time": "2026-09-02T21:42:08.843"
+    },
+    {
+      "sample_index": 100751,
+      "elapsed_seconds": 49.643,
+      "phase": "ACTION",
+      "target_label": "검지 움직임",
+      "trial_id": 6,
+      "computer_time": "2026-09-02T21:42:09.903"
+    },
+    {
+      "sample_index": 103807,
+      "elapsed_seconds": 52.699,
+      "phase": "RECOVERY",
+      "target_label": "검지 움직임",
+      "trial_id": 6,
+      "computer_time": "2026-09-02T21:42:12.959"
+    }
+  ],
+  "source_combined_file": "RAW_EMG_무작위_파일럿_20260902_214120_255.csv",
+  "files": {
+    "binary": "RAW_EMG_검지 움직임_무작위_20260902_214120_회차006.bin",
+    "csv": "RAW_EMG_검지 움직임_무작위_20260902_214120_회차006.csv"
+  }
+}

@@ -1,0 +1,1043 @@
+{
+  "format_version": 1,
+  "created_at": "2026-09-02T21:41:20.257",
+  "stopped_at": "2026-09-02T21:46:02.683",
+  "mode": "guided",
+  "sample_rate_hz": 1000,
+  "baud_rate": 500000,
+  "channels": [
+    "A0",
+    "A1",
+    "A2"
+  ],
+  "adc_bits": 10,
+  "adc_reference": "Arduino DEFAULT (nominal 5 V)",
+  "packet": {
+    "size_bytes": 14,
+    "sync_hex": "A55A",
+    "endianness": "little",
+    "payload": "uint32 index, uint16 A0, uint16 A1, uint16 A2",
+    "crc": "CRC-16/CCITT-FALSE over payload",
+    "binary_contains": "validated complete packets only"
+  },
+  "rows": 282409,
+  "first_sample_index": 51108,
+  "last_sample_index": 333516,
+  "missing_sample_groups": 0,
+  "crc_errors_during_record": 0,
+  "discarded_bytes_during_record": 0,
+  "events": [
+    {
+      "sample_index": 51107,
+      "elapsed_seconds": null,
+      "phase": "RECORD_START",
+      "target_label": "무작위_파일럿",
+      "trial_id": 0,
+      "computer_time": "2026-09-02T21:41:20.257"
+    },
+    {
+      "sample_index": 51107,
+      "elapsed_seconds": null,
+      "phase": "BASELINE",
+      "target_label": "약지 움직임",
+      "trial_id": 1,
+      "computer_time": "2026-09-02T21:41:20.257"
+    },
+    {
+      "sample_index": 54108,
+      "elapsed_seconds": 3.0,
+      "phase": "READY",
+      "target_label": "약지 움직임",
+      "trial_id": 1,
+      "computer_time": "2026-09-02T21:41:23.258"
+    },
+    {
+      "sample_index": 55139,
+      "elapsed_seconds": 4.031,
+      "phase": "ACTION",
+      "target_label": "약지 움직임",
+      "trial_id": 1,
+      "computer_time": "2026-09-02T21:41:24.289"
+    },
+    {
+      "sample_index": 58170,
+      "elapsed_seconds": 7.062,
+      "phase": "RECOVERY",
+      "target_label": "약지 움직임",
+      "trial_id": 1,
+      "computer_time": "2026-09-02T21:41:27.320"
+    },
+    {
+      "sample_index": 60200,
+      "elapsed_seconds": 9.092,
+      "phase": "BASELINE",
+      "target_label": "중지 움직임",
+      "trial_id": 2,
+      "computer_time": "2026-09-02T21:41:29.350"
+    },
+    {
+      "sample_index": 63208,
+      "elapsed_seconds": 12.1,
+      "phase": "READY",
+      "target_label": "중지 움직임",
+      "trial_id": 2,
+      "computer_time": "2026-09-02T21:41:32.358"
+    },
+    {
+      "sample_index": 64213,
+      "elapsed_seconds": 13.105,
+      "phase": "ACTION",
+      "target_label": "중지 움직임",
+      "trial_id": 2,
+      "computer_time": "2026-09-02T21:41:33.365"
+    },
+    {
+      "sample_index": 67260,
+      "elapsed_seconds": 16.152,
+      "phase": "RECOVERY",
+      "target_label": "중지 움직임",
+      "trial_id": 2,
+      "computer_time": "2026-09-02T21:41:36.411"
+    },
+    {
+      "sample_index": 69276,
+      "elapsed_seconds": 18.168,
+      "phase": "BASELINE",
+      "target_label": "휴식",
+      "trial_id": 3,
+      "computer_time": "2026-09-02T21:41:38.426"
+    },
+    {
+      "sample_index": 72282,
+      "elapsed_seconds": 21.174,
+      "phase": "READY",
+      "target_label": "휴식",
+      "trial_id": 3,
+      "computer_time": "2026-09-02T21:41:41.434"
+    },
+    {
+      "sample_index": 73336,
+      "elapsed_seconds": 22.228,
+      "phase": "ACTION",
+      "target_label": "휴식",
+      "trial_id": 3,
+      "computer_time": "2026-09-02T21:41:42.488"
+    },
+    {
+      "sample_index": 76383,
+      "elapsed_seconds": 25.275,
+      "phase": "RECOVERY",
+      "target_label": "휴식",
+      "trial_id": 3,
+      "computer_time": "2026-09-02T21:41:45.534"
+    },
+    {
+      "sample_index": 78428,
+      "elapsed_seconds": 27.32,
+      "phase": "BASELINE",
+      "target_label": "검지 움직임",
+      "trial_id": 4,
+      "computer_time": "2026-09-02T21:41:47.580"
+    },
+    {
+      "sample_index": 81466,
+      "elapsed_seconds": 30.358,
+      "phase": "READY",
+      "target_label": "검지 움직임",
+      "trial_id": 4,
+      "computer_time": "2026-09-02T21:41:50.617"
+    },
+    {
+      "sample_index": 82513,
+      "elapsed_seconds": 31.405,
+      "phase": "ACTION",
+      "target_label": "검지 움직임",
+      "trial_id": 4,
+      "computer_time": "2026-09-02T21:41:51.665"
+    },
+    {
+      "sample_index": 85541,
+      "elapsed_seconds": 34.433,
+      "phase": "RECOVERY",
+      "target_label": "검지 움직임",
+      "trial_id": 4,
+      "computer_time": "2026-09-02T21:41:54.693"
+    },
+    {
+      "sample_index": 87567,
+      "elapsed_seconds": 36.459,
+      "phase": "BASELINE",
+      "target_label": "휴식",
+      "trial_id": 5,
+      "computer_time": "2026-09-02T21:41:56.718"
+    },
+    {
+      "sample_index": 90602,
+      "elapsed_seconds": 39.494,
+      "phase": "READY",
+      "target_label": "휴식",
+      "trial_id": 5,
+      "computer_time": "2026-09-02T21:41:59.754"
+    },
+    {
+      "sample_index": 91612,
+      "elapsed_seconds": 40.504,
+      "phase": "ACTION",
+      "target_label": "휴식",
+      "trial_id": 5,
+      "computer_time": "2026-09-02T21:42:00.764"
+    },
+    {
+      "sample_index": 94639,
+      "elapsed_seconds": 43.531,
+      "phase": "RECOVERY",
+      "target_label": "휴식",
+      "trial_id": 5,
+      "computer_time": "2026-09-02T21:42:03.789"
+    },
+    {
+      "sample_index": 96657,
+      "elapsed_seconds": 45.549,
+      "phase": "BASELINE",
+      "target_label": "검지 움직임",
+      "trial_id": 6,
+      "computer_time": "2026-09-02T21:42:05.810"
+    },
+    {
+      "sample_index": 99690,
+      "elapsed_seconds": 48.582,
+      "phase": "READY",
+      "target_label": "검지 움직임",
+      "trial_id": 6,
+      "computer_time": "2026-09-02T21:42:08.843"
+    },
+    {
+      "sample_index": 100751,
+      "elapsed_seconds": 49.643,
+      "phase": "ACTION",
+      "target_label": "검지 움직임",
+      "trial_id": 6,
+      "computer_time": "2026-09-02T21:42:09.903"
+    },
+    {
+      "sample_index": 103807,
+      "elapsed_seconds": 52.699,
+      "phase": "RECOVERY",
+      "target_label": "검지 움직임",
+      "trial_id": 6,
+      "computer_time": "2026-09-02T21:42:12.959"
+    },
+    {
+      "sample_index": 105827,
+      "elapsed_seconds": 54.719,
+      "phase": "BASELINE",
+      "target_label": "약지 움직임",
+      "trial_id": 7,
+      "computer_time": "2026-09-02T21:42:14.980"
+    },
+    {
+      "sample_index": 108863,
+      "elapsed_seconds": 57.755,
+      "phase": "READY",
+      "target_label": "약지 움직임",
+      "trial_id": 7,
+      "computer_time": "2026-09-02T21:42:18.015"
+    },
+    {
+      "sample_index": 109864,
+      "elapsed_seconds": 58.756,
+      "phase": "ACTION",
+      "target_label": "약지 움직임",
+      "trial_id": 7,
+      "computer_time": "2026-09-02T21:42:19.017"
+    },
+    {
+      "sample_index": 112888,
+      "elapsed_seconds": 61.78,
+      "phase": "RECOVERY",
+      "target_label": "약지 움직임",
+      "trial_id": 7,
+      "computer_time": "2026-09-02T21:42:22.041"
+    },
+    {
+      "sample_index": 114933,
+      "elapsed_seconds": 63.825,
+      "phase": "BASELINE",
+      "target_label": "중지 움직임",
+      "trial_id": 8,
+      "computer_time": "2026-09-02T21:42:24.087"
+    },
+    {
+      "sample_index": 117969,
+      "elapsed_seconds": 66.861,
+      "phase": "READY",
+      "target_label": "중지 움직임",
+      "trial_id": 8,
+      "computer_time": "2026-09-02T21:42:27.122"
+    },
+    {
+      "sample_index": 119004,
+      "elapsed_seconds": 67.896,
+      "phase": "ACTION",
+      "target_label": "중지 움직임",
+      "trial_id": 8,
+      "computer_time": "2026-09-02T21:42:28.158"
+    },
+    {
+      "sample_index": 122058,
+      "elapsed_seconds": 70.95,
+      "phase": "RECOVERY",
+      "target_label": "중지 움직임",
+      "trial_id": 8,
+      "computer_time": "2026-09-02T21:42:31.211"
+    },
+    {
+      "sample_index": 124088,
+      "elapsed_seconds": 72.98,
+      "phase": "BASELINE",
+      "target_label": "휴식",
+      "trial_id": 9,
+      "computer_time": "2026-09-02T21:42:33.241"
+    },
+    {
+      "sample_index": 127148,
+      "elapsed_seconds": 76.04,
+      "phase": "READY",
+      "target_label": "휴식",
+      "trial_id": 9,
+      "computer_time": "2026-09-02T21:42:36.303"
+    },
+    {
+      "sample_index": 128191,
+      "elapsed_seconds": 77.083,
+      "phase": "ACTION",
+      "target_label": "휴식",
+      "trial_id": 9,
+      "computer_time": "2026-09-02T21:42:37.344"
+    },
+    {
+      "sample_index": 131242,
+      "elapsed_seconds": 80.134,
+      "phase": "RECOVERY",
+      "target_label": "휴식",
+      "trial_id": 9,
+      "computer_time": "2026-09-02T21:42:40.396"
+    },
+    {
+      "sample_index": 133288,
+      "elapsed_seconds": 82.18,
+      "phase": "BASELINE",
+      "target_label": "약지 움직임",
+      "trial_id": 10,
+      "computer_time": "2026-09-02T21:42:42.442"
+    },
+    {
+      "sample_index": 136303,
+      "elapsed_seconds": 85.195,
+      "phase": "READY",
+      "target_label": "약지 움직임",
+      "trial_id": 10,
+      "computer_time": "2026-09-02T21:42:45.457"
+    },
+    {
+      "sample_index": 137333,
+      "elapsed_seconds": 86.225,
+      "phase": "ACTION",
+      "target_label": "약지 움직임",
+      "trial_id": 10,
+      "computer_time": "2026-09-02T21:42:46.488"
+    },
+    {
+      "sample_index": 140364,
+      "elapsed_seconds": 89.256,
+      "phase": "RECOVERY",
+      "target_label": "약지 움직임",
+      "trial_id": 10,
+      "computer_time": "2026-09-02T21:42:49.519"
+    },
+    {
+      "sample_index": 142380,
+      "elapsed_seconds": 91.272,
+      "phase": "BASELINE",
+      "target_label": "검지 움직임",
+      "trial_id": 11,
+      "computer_time": "2026-09-02T21:42:51.534"
+    },
+    {
+      "sample_index": 145420,
+      "elapsed_seconds": 94.312,
+      "phase": "READY",
+      "target_label": "검지 움직임",
+      "trial_id": 11,
+      "computer_time": "2026-09-02T21:42:54.575"
+    },
+    {
+      "sample_index": 146456,
+      "elapsed_seconds": 95.348,
+      "phase": "ACTION",
+      "target_label": "검지 움직임",
+      "trial_id": 11,
+      "computer_time": "2026-09-02T21:42:55.611"
+    },
+    {
+      "sample_index": 149471,
+      "elapsed_seconds": 98.363,
+      "phase": "RECOVERY",
+      "target_label": "검지 움직임",
+      "trial_id": 11,
+      "computer_time": "2026-09-02T21:42:58.626"
+    },
+    {
+      "sample_index": 151493,
+      "elapsed_seconds": 100.385,
+      "phase": "BASELINE",
+      "target_label": "중지 움직임",
+      "trial_id": 12,
+      "computer_time": "2026-09-02T21:43:00.648"
+    },
+    {
+      "sample_index": 154517,
+      "elapsed_seconds": 103.409,
+      "phase": "READY",
+      "target_label": "중지 움직임",
+      "trial_id": 12,
+      "computer_time": "2026-09-02T21:43:03.672"
+    },
+    {
+      "sample_index": 155560,
+      "elapsed_seconds": 104.452,
+      "phase": "ACTION",
+      "target_label": "중지 움직임",
+      "trial_id": 12,
+      "computer_time": "2026-09-02T21:43:04.715"
+    },
+    {
+      "sample_index": 158609,
+      "elapsed_seconds": 107.501,
+      "phase": "RECOVERY",
+      "target_label": "중지 움직임",
+      "trial_id": 12,
+      "computer_time": "2026-09-02T21:43:07.764"
+    },
+    {
+      "sample_index": 160645,
+      "elapsed_seconds": 109.537,
+      "phase": "BASELINE",
+      "target_label": "검지 움직임",
+      "trial_id": 13,
+      "computer_time": "2026-09-02T21:43:09.802"
+    },
+    {
+      "sample_index": 163690,
+      "elapsed_seconds": 112.582,
+      "phase": "READY",
+      "target_label": "검지 움직임",
+      "trial_id": 13,
+      "computer_time": "2026-09-02T21:43:12.847"
+    },
+    {
+      "sample_index": 164723,
+      "elapsed_seconds": 113.615,
+      "phase": "ACTION",
+      "target_label": "검지 움직임",
+      "trial_id": 13,
+      "computer_time": "2026-09-02T21:43:13.879"
+    },
+    {
+      "sample_index": 167747,
+      "elapsed_seconds": 116.639,
+      "phase": "RECOVERY",
+      "target_label": "검지 움직임",
+      "trial_id": 13,
+      "computer_time": "2026-09-02T21:43:16.903"
+    },
+    {
+      "sample_index": 169793,
+      "elapsed_seconds": 118.685,
+      "phase": "BASELINE",
+      "target_label": "중지 움직임",
+      "trial_id": 14,
+      "computer_time": "2026-09-02T21:43:18.949"
+    },
+    {
+      "sample_index": 172817,
+      "elapsed_seconds": 121.709,
+      "phase": "READY",
+      "target_label": "중지 움직임",
+      "trial_id": 14,
+      "computer_time": "2026-09-02T21:43:21.973"
+    },
+    {
+      "sample_index": 173839,
+      "elapsed_seconds": 122.731,
+      "phase": "ACTION",
+      "target_label": "중지 움직임",
+      "trial_id": 14,
+      "computer_time": "2026-09-02T21:43:22.995"
+    },
+    {
+      "sample_index": 176853,
+      "elapsed_seconds": 125.745,
+      "phase": "RECOVERY",
+      "target_label": "중지 움직임",
+      "trial_id": 14,
+      "computer_time": "2026-09-02T21:43:26.010"
+    },
+    {
+      "sample_index": 178915,
+      "elapsed_seconds": 127.807,
+      "phase": "BASELINE",
+      "target_label": "휴식",
+      "trial_id": 15,
+      "computer_time": "2026-09-02T21:43:28.072"
+    },
+    {
+      "sample_index": 181935,
+      "elapsed_seconds": 130.827,
+      "phase": "READY",
+      "target_label": "휴식",
+      "trial_id": 15,
+      "computer_time": "2026-09-02T21:43:31.091"
+    },
+    {
+      "sample_index": 182993,
+      "elapsed_seconds": 131.885,
+      "phase": "ACTION",
+      "target_label": "휴식",
+      "trial_id": 15,
+      "computer_time": "2026-09-02T21:43:32.150"
+    },
+    {
+      "sample_index": 186005,
+      "elapsed_seconds": 134.897,
+      "phase": "RECOVERY",
+      "target_label": "휴식",
+      "trial_id": 15,
+      "computer_time": "2026-09-02T21:43:35.164"
+    },
+    {
+      "sample_index": 188053,
+      "elapsed_seconds": 136.945,
+      "phase": "BASELINE",
+      "target_label": "약지 움직임",
+      "trial_id": 16,
+      "computer_time": "2026-09-02T21:43:37.210"
+    },
+    {
+      "sample_index": 191087,
+      "elapsed_seconds": 139.979,
+      "phase": "READY",
+      "target_label": "약지 움직임",
+      "trial_id": 16,
+      "computer_time": "2026-09-02T21:43:40.244"
+    },
+    {
+      "sample_index": 192124,
+      "elapsed_seconds": 141.016,
+      "phase": "ACTION",
+      "target_label": "약지 움직임",
+      "trial_id": 16,
+      "computer_time": "2026-09-02T21:43:41.283"
+    },
+    {
+      "sample_index": 195176,
+      "elapsed_seconds": 144.068,
+      "phase": "RECOVERY",
+      "target_label": "약지 움직임",
+      "trial_id": 16,
+      "computer_time": "2026-09-02T21:43:44.334"
+    },
+    {
+      "sample_index": 197189,
+      "elapsed_seconds": 146.081,
+      "phase": "BASELINE",
+      "target_label": "휴식",
+      "trial_id": 17,
+      "computer_time": "2026-09-02T21:43:46.349"
+    },
+    {
+      "sample_index": 200220,
+      "elapsed_seconds": 149.112,
+      "phase": "READY",
+      "target_label": "휴식",
+      "trial_id": 17,
+      "computer_time": "2026-09-02T21:43:49.379"
+    },
+    {
+      "sample_index": 201279,
+      "elapsed_seconds": 150.171,
+      "phase": "ACTION",
+      "target_label": "휴식",
+      "trial_id": 17,
+      "computer_time": "2026-09-02T21:43:50.436"
+    },
+    {
+      "sample_index": 204282,
+      "elapsed_seconds": 153.174,
+      "phase": "RECOVERY",
+      "target_label": "휴식",
+      "trial_id": 17,
+      "computer_time": "2026-09-02T21:43:53.441"
+    },
+    {
+      "sample_index": 206287,
+      "elapsed_seconds": 155.179,
+      "phase": "BASELINE",
+      "target_label": "약지 움직임",
+      "trial_id": 18,
+      "computer_time": "2026-09-02T21:43:55.445"
+    },
+    {
+      "sample_index": 209343,
+      "elapsed_seconds": 158.235,
+      "phase": "READY",
+      "target_label": "약지 움직임",
+      "trial_id": 18,
+      "computer_time": "2026-09-02T21:43:58.502"
+    },
+    {
+      "sample_index": 210389,
+      "elapsed_seconds": 159.281,
+      "phase": "ACTION",
+      "target_label": "약지 움직임",
+      "trial_id": 18,
+      "computer_time": "2026-09-02T21:43:59.549"
+    },
+    {
+      "sample_index": 213452,
+      "elapsed_seconds": 162.344,
+      "phase": "RECOVERY",
+      "target_label": "약지 움직임",
+      "trial_id": 18,
+      "computer_time": "2026-09-02T21:44:02.611"
+    },
+    {
+      "sample_index": 215498,
+      "elapsed_seconds": 164.39,
+      "phase": "BASELINE",
+      "target_label": "중지 움직임",
+      "trial_id": 19,
+      "computer_time": "2026-09-02T21:44:04.657"
+    },
+    {
+      "sample_index": 218556,
+      "elapsed_seconds": 167.448,
+      "phase": "READY",
+      "target_label": "중지 움직임",
+      "trial_id": 19,
+      "computer_time": "2026-09-02T21:44:07.716"
+    },
+    {
+      "sample_index": 219608,
+      "elapsed_seconds": 168.5,
+      "phase": "ACTION",
+      "target_label": "중지 움직임",
+      "trial_id": 19,
+      "computer_time": "2026-09-02T21:44:08.768"
+    },
+    {
+      "sample_index": 222620,
+      "elapsed_seconds": 171.512,
+      "phase": "RECOVERY",
+      "target_label": "중지 움직임",
+      "trial_id": 19,
+      "computer_time": "2026-09-02T21:44:11.780"
+    },
+    {
+      "sample_index": 224673,
+      "elapsed_seconds": 173.565,
+      "phase": "BASELINE",
+      "target_label": "검지 움직임",
+      "trial_id": 20,
+      "computer_time": "2026-09-02T21:44:13.832"
+    },
+    {
+      "sample_index": 227729,
+      "elapsed_seconds": 176.621,
+      "phase": "READY",
+      "target_label": "검지 움직임",
+      "trial_id": 20,
+      "computer_time": "2026-09-02T21:44:16.889"
+    },
+    {
+      "sample_index": 228792,
+      "elapsed_seconds": 177.684,
+      "phase": "ACTION",
+      "target_label": "검지 움직임",
+      "trial_id": 20,
+      "computer_time": "2026-09-02T21:44:17.951"
+    },
+    {
+      "sample_index": 231839,
+      "elapsed_seconds": 180.731,
+      "phase": "RECOVERY",
+      "target_label": "검지 움직임",
+      "trial_id": 20,
+      "computer_time": "2026-09-02T21:44:20.998"
+    },
+    {
+      "sample_index": 233852,
+      "elapsed_seconds": 182.744,
+      "phase": "BASELINE",
+      "target_label": "휴식",
+      "trial_id": 21,
+      "computer_time": "2026-09-02T21:44:23.012"
+    },
+    {
+      "sample_index": 236913,
+      "elapsed_seconds": 185.805,
+      "phase": "READY",
+      "target_label": "휴식",
+      "trial_id": 21,
+      "computer_time": "2026-09-02T21:44:26.075"
+    },
+    {
+      "sample_index": 237960,
+      "elapsed_seconds": 186.852,
+      "phase": "ACTION",
+      "target_label": "휴식",
+      "trial_id": 21,
+      "computer_time": "2026-09-02T21:44:27.121"
+    },
+    {
+      "sample_index": 240991,
+      "elapsed_seconds": 189.883,
+      "phase": "RECOVERY",
+      "target_label": "휴식",
+      "trial_id": 21,
+      "computer_time": "2026-09-02T21:44:30.151"
+    },
+    {
+      "sample_index": 243020,
+      "elapsed_seconds": 191.912,
+      "phase": "BASELINE",
+      "target_label": "검지 움직임",
+      "trial_id": 22,
+      "computer_time": "2026-09-02T21:44:32.182"
+    },
+    {
+      "sample_index": 246026,
+      "elapsed_seconds": 194.918,
+      "phase": "READY",
+      "target_label": "검지 움직임",
+      "trial_id": 22,
+      "computer_time": "2026-09-02T21:44:35.187"
+    },
+    {
+      "sample_index": 247036,
+      "elapsed_seconds": 195.928,
+      "phase": "ACTION",
+      "target_label": "검지 움직임",
+      "trial_id": 22,
+      "computer_time": "2026-09-02T21:44:36.197"
+    },
+    {
+      "sample_index": 250051,
+      "elapsed_seconds": 198.943,
+      "phase": "RECOVERY",
+      "target_label": "검지 움직임",
+      "trial_id": 22,
+      "computer_time": "2026-09-02T21:44:39.212"
+    },
+    {
+      "sample_index": 252053,
+      "elapsed_seconds": 200.945,
+      "phase": "BASELINE",
+      "target_label": "약지 움직임",
+      "trial_id": 23,
+      "computer_time": "2026-09-02T21:44:41.214"
+    },
+    {
+      "sample_index": 255112,
+      "elapsed_seconds": 204.004,
+      "phase": "READY",
+      "target_label": "약지 움직임",
+      "trial_id": 23,
+      "computer_time": "2026-09-02T21:44:44.274"
+    },
+    {
+      "sample_index": 256143,
+      "elapsed_seconds": 205.035,
+      "phase": "ACTION",
+      "target_label": "약지 움직임",
+      "trial_id": 23,
+      "computer_time": "2026-09-02T21:44:45.304"
+    },
+    {
+      "sample_index": 259189,
+      "elapsed_seconds": 208.081,
+      "phase": "RECOVERY",
+      "target_label": "약지 움직임",
+      "trial_id": 23,
+      "computer_time": "2026-09-02T21:44:48.351"
+    },
+    {
+      "sample_index": 261203,
+      "elapsed_seconds": 210.095,
+      "phase": "BASELINE",
+      "target_label": "중지 움직임",
+      "trial_id": 24,
+      "computer_time": "2026-09-02T21:44:50.365"
+    },
+    {
+      "sample_index": 264266,
+      "elapsed_seconds": 213.158,
+      "phase": "READY",
+      "target_label": "중지 움직임",
+      "trial_id": 24,
+      "computer_time": "2026-09-02T21:44:53.427"
+    },
+    {
+      "sample_index": 265281,
+      "elapsed_seconds": 214.173,
+      "phase": "ACTION",
+      "target_label": "중지 움직임",
+      "trial_id": 24,
+      "computer_time": "2026-09-02T21:44:54.443"
+    },
+    {
+      "sample_index": 268309,
+      "elapsed_seconds": 217.201,
+      "phase": "RECOVERY",
+      "target_label": "중지 움직임",
+      "trial_id": 24,
+      "computer_time": "2026-09-02T21:44:57.473"
+    },
+    {
+      "sample_index": 270357,
+      "elapsed_seconds": 219.249,
+      "phase": "BASELINE",
+      "target_label": "검지 움직임",
+      "trial_id": 25,
+      "computer_time": "2026-09-02T21:44:59.519"
+    },
+    {
+      "sample_index": 273388,
+      "elapsed_seconds": 222.28,
+      "phase": "READY",
+      "target_label": "검지 움직임",
+      "trial_id": 25,
+      "computer_time": "2026-09-02T21:45:02.550"
+    },
+    {
+      "sample_index": 274435,
+      "elapsed_seconds": 223.327,
+      "phase": "ACTION",
+      "target_label": "검지 움직임",
+      "trial_id": 25,
+      "computer_time": "2026-09-02T21:45:03.597"
+    },
+    {
+      "sample_index": 277480,
+      "elapsed_seconds": 226.372,
+      "phase": "RECOVERY",
+      "target_label": "검지 움직임",
+      "trial_id": 25,
+      "computer_time": "2026-09-02T21:45:06.643"
+    },
+    {
+      "sample_index": 279525,
+      "elapsed_seconds": 228.417,
+      "phase": "BASELINE",
+      "target_label": "중지 움직임",
+      "trial_id": 26,
+      "computer_time": "2026-09-02T21:45:08.689"
+    },
+    {
+      "sample_index": 282588,
+      "elapsed_seconds": 231.48,
+      "phase": "READY",
+      "target_label": "중지 움직임",
+      "trial_id": 26,
+      "computer_time": "2026-09-02T21:45:11.751"
+    },
+    {
+      "sample_index": 283603,
+      "elapsed_seconds": 232.495,
+      "phase": "ACTION",
+      "target_label": "중지 움직임",
+      "trial_id": 26,
+      "computer_time": "2026-09-02T21:45:12.766"
+    },
+    {
+      "sample_index": 286650,
+      "elapsed_seconds": 235.542,
+      "phase": "RECOVERY",
+      "target_label": "중지 움직임",
+      "trial_id": 26,
+      "computer_time": "2026-09-02T21:45:15.813"
+    },
+    {
+      "sample_index": 288680,
+      "elapsed_seconds": 237.572,
+      "phase": "BASELINE",
+      "target_label": "약지 움직임",
+      "trial_id": 27,
+      "computer_time": "2026-09-02T21:45:17.843"
+    },
+    {
+      "sample_index": 291695,
+      "elapsed_seconds": 240.587,
+      "phase": "READY",
+      "target_label": "약지 움직임",
+      "trial_id": 27,
+      "computer_time": "2026-09-02T21:45:20.858"
+    },
+    {
+      "sample_index": 292709,
+      "elapsed_seconds": 241.601,
+      "phase": "ACTION",
+      "target_label": "약지 움직임",
+      "trial_id": 27,
+      "computer_time": "2026-09-02T21:45:21.873"
+    },
+    {
+      "sample_index": 295768,
+      "elapsed_seconds": 244.66,
+      "phase": "RECOVERY",
+      "target_label": "약지 움직임",
+      "trial_id": 27,
+      "computer_time": "2026-09-02T21:45:24.933"
+    },
+    {
+      "sample_index": 297802,
+      "elapsed_seconds": 246.694,
+      "phase": "BASELINE",
+      "target_label": "휴식",
+      "trial_id": 28,
+      "computer_time": "2026-09-02T21:45:26.966"
+    },
+    {
+      "sample_index": 300842,
+      "elapsed_seconds": 249.734,
+      "phase": "READY",
+      "target_label": "휴식",
+      "trial_id": 28,
+      "computer_time": "2026-09-02T21:45:30.006"
+    },
+    {
+      "sample_index": 301889,
+      "elapsed_seconds": 250.781,
+      "phase": "ACTION",
+      "target_label": "휴식",
+      "trial_id": 28,
+      "computer_time": "2026-09-02T21:45:31.052"
+    },
+    {
+      "sample_index": 304940,
+      "elapsed_seconds": 253.832,
+      "phase": "RECOVERY",
+      "target_label": "휴식",
+      "trial_id": 28,
+      "computer_time": "2026-09-02T21:45:34.105"
+    },
+    {
+      "sample_index": 306977,
+      "elapsed_seconds": 255.869,
+      "phase": "BASELINE",
+      "target_label": "중지 움직임",
+      "trial_id": 29,
+      "computer_time": "2026-09-02T21:45:36.142"
+    },
+    {
+      "sample_index": 310017,
+      "elapsed_seconds": 258.909,
+      "phase": "READY",
+      "target_label": "중지 움직임",
+      "trial_id": 29,
+      "computer_time": "2026-09-02T21:45:39.182"
+    },
+    {
+      "sample_index": 311023,
+      "elapsed_seconds": 259.915,
+      "phase": "ACTION",
+      "target_label": "중지 움직임",
+      "trial_id": 29,
+      "computer_time": "2026-09-02T21:45:40.187"
+    },
+    {
+      "sample_index": 314031,
+      "elapsed_seconds": 262.923,
+      "phase": "RECOVERY",
+      "target_label": "중지 움직임",
+      "trial_id": 29,
+      "computer_time": "2026-09-02T21:45:43.196"
+    },
+    {
+      "sample_index": 316079,
+      "elapsed_seconds": 264.971,
+      "phase": "BASELINE",
+      "target_label": "검지 움직임",
+      "trial_id": 30,
+      "computer_time": "2026-09-02T21:45:45.243"
+    },
+    {
+      "sample_index": 319139,
+      "elapsed_seconds": 268.031,
+      "phase": "READY",
+      "target_label": "검지 움직임",
+      "trial_id": 30,
+      "computer_time": "2026-09-02T21:45:48.305"
+    },
+    {
+      "sample_index": 320140,
+      "elapsed_seconds": 269.032,
+      "phase": "ACTION",
+      "target_label": "검지 움직임",
+      "trial_id": 30,
+      "computer_time": "2026-09-02T21:45:49.305"
+    },
+    {
+      "sample_index": 323178,
+      "elapsed_seconds": 272.07,
+      "phase": "RECOVERY",
+      "target_label": "검지 움직임",
+      "trial_id": 30,
+      "computer_time": "2026-09-02T21:45:52.345"
+    },
+    {
+      "sample_index": 325201,
+      "elapsed_seconds": 274.093,
+      "phase": "BASELINE",
+      "target_label": "약지 움직임",
+      "trial_id": 31,
+      "computer_time": "2026-09-02T21:45:54.366"
+    },
+    {
+      "sample_index": 328216,
+      "elapsed_seconds": 277.108,
+      "phase": "READY",
+      "target_label": "약지 움직임",
+      "trial_id": 31,
+      "computer_time": "2026-09-02T21:45:57.381"
+    },
+    {
+      "sample_index": 329231,
+      "elapsed_seconds": 278.123,
+      "phase": "ACTION",
+      "target_label": "약지 움직임",
+      "trial_id": 31,
+      "computer_time": "2026-09-02T21:45:58.396"
+    },
+    {
+      "sample_index": 332245,
+      "elapsed_seconds": 281.137,
+      "phase": "RECOVERY",
+      "target_label": "약지 움직임",
+      "trial_id": 31,
+      "computer_time": "2026-09-02T21:46:01.411"
+    },
+    {
+      "sample_index": 333516,
+      "elapsed_seconds": 282.408,
+      "phase": "RECORD_STOP",
+      "target_label": "약지 움직임",
+      "trial_id": 31,
+      "computer_time": "2026-09-02T21:46:02.683"
+    }
+  ],
+  "files": {
+    "binary": "RAW_EMG_무작위_파일럿_20260902_214120_255.bin",
+    "csv": "RAW_EMG_무작위_파일럿_20260902_214120_255.csv"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "format_version": 3,
+  "model_generation": "final_5class",
+  "created_at": "2026-09-03T00:12:51",
+  "architecture": "rest gate -> active index/middle/ring/fist classifier -> unknown",
+  "recommended_model": "1D CNN",
+  "sample_rate_hz": 1000,
+  "window_samples": 1000,
+  "window_stride_training": 250,
+  "window_seconds": 1.0,
+  "filter": {
+    "bandpass_hz": [
+      20.0,
+      450.0
+    ],
+    "notch_hz": [
+      60.0,
+      120.0,
+      180.0,
+      240.0,
+      300.0,
+      360.0,
+      420.0
+    ],
+    "notch_half_width_hz": 2.0,
+    "implementation": "per-window FFT mask"
+  },
+  "classification_preprocessing": {
+    "normalization": "global_window_rms",
+    "purpose": "reduce force/amplitude drift while retaining channel ratios"
+  },
+  "gesture_labels": [
+    "검지 움직임",
+    "중지 움직임",
+    "약지 움직임",
+    "주먹 쥐기"
+  ],
+  "label_to_index": {
+    "검지 움직임": 0,
+    "중지 움직임": 1,
+    "약지 움직임": 2,
+    "주먹 쥐기": 3
+  },
+  "rest_label": "휴식",
+  "activation": {
+    "baseline_rms": [
+      1.1270849704742432,
+      0.7729178667068481,
+      1.5397241115570068
+    ],
+    "on_ratio": 2.7888173242981953,
+    "off_ratio": 1.9521721270087367,
+    "live_baseline_calibration": true,
+    "on_consecutive_windows": 2,
+    "off_consecutive_windows": 5
+  },
+  "rf": {
+    "feature_version": "final_v2",
+    "feature_names": [
+      "a0_rms",
+      "a0_mav",
+      "a0_std",
+      "a0_median_abs",
+      "a0_p75_abs",
+      "a0_p90_abs",
+      "a0_p95_abs",
+      "a0_max_abs",
+      "a0_waveform_length",
+      "a0_zero_crossing_rate",
+      "a0_slope_sign_change_rate",
+      "a0_mean_frequency",
+      "a0_median_frequency",
+      "a0_power_20_55",
+      "a0_power_65_115",
+      "a0_power_125_250",
+      "a1_rms",
+      "a1_mav",
+      "a1_std",
+      "a1_median_abs",
+      "a1_p75_abs",
+      "a1_p90_abs",
+      "a1_p95_abs",
+      "a1_max_abs",
+      "a1_waveform_length",
+      "a1_zero_crossing_rate",
+      "a1_slope_sign_change_rate",
+      "a1_mean_frequency",
+      "a1_median_frequency",
+      "a1_power_20_55",
+      "a1_power_65_115",
+      "a1_power_125_250",
+      "a2_rms",
+      "a2_mav",
+      "a2_std",
+      "a2_median_abs",
+      "a2_p75_abs",
+      "a2_p90_abs",
+      "a2_p95_abs",
+      "a2_max_abs",
+      "a2_waveform_length",
+      "a2_zero_crossing_rate",
+      "a2_slope_sign_change_rate",
+      "a2_mean_frequency",
+      "a2_median_frequency",
+      "a2_power_20_55",
+      "a2_power_65_115",
+      "a2_power_125_250",
+      "total_rms",
+      "rms_share_a0",
+      "rms_share_a1",
+      "rms_share_a2",
+      "mav_share_a0",
+      "mav_share_a1",
+      "mav_share_a2",
+      "log_rms_a0_over_a1",
+      "log_rms_a0_over_a2",
+      "log_rms_a1_over_a2",
+      "corr_a0_a1",
+      "corr_a0_a2",
+      "corr_a1_a2",
+      "a0_power_250_450",
+      "a0_spectral_entropy",
+      "a1_power_250_450",
+      "a1_spectral_entropy",
+      "a2_power_250_450",
+      "a2_spectral_entropy"
+    ],
+    "confidence_threshold": 0.47000000000000003
+  },
+  "cnn": {
+    "input_scale": 4.814128875732422,
+    "confidence_threshold": 0.485,
+    "class_count": 4,
+    "deployment_epochs": 16
+  },
+  "data": {
+    "source": "latest-date valid manual records plus guided ACTION trials",
+    "include_all_dates": false,
+    "manual_files_included": true,
+    "sessions": 2,
+    "trials": {
+      "검지 움직임": 92,
+      "중지 움직임": 92,
+      "약지 움직임": 90,
+      "주먹 쥐기": 81,
+      "휴식": 96
+    },
+    "total_windows": 1769,
+    "active_deployment_windows": 1345,
+    "split": {
+      "mode": "chronological_trial_holdout_same_date",
+      "reliability": "provisional: later trials are held out, but a new electrode attachment is not tested",
+      "sessions": {
+        "all": [
+          "20260902_214120",
+          "manual_2026-09-02"
+        ]
+      }
+    }
+  },
+  "software": {
+    "python": "3.14.4",
+    "numpy": "2.4.5",
+    "pandas": "3.0.3",
+    "scikit_learn": "1.9.0",
+    "torch": "2.12.0+cpu"
+  }
+}

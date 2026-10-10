@@ -1,0 +1,55 @@
+{
+  "format_version": 1,
+  "created_at": "2026-09-02T22:16:11.907",
+  "stopped_at": "2026-09-02T22:16:13.494",
+  "mode": "manual",
+  "protocol_session_id": null,
+  "protocol_trial_number": null,
+  "protocol_total_trials": null,
+  "protocol_trial_completed": null,
+  "sample_rate_hz": 1000,
+  "baud_rate": 500000,
+  "channels": [
+    "A0",
+    "A1",
+    "A2"
+  ],
+  "adc_bits": 10,
+  "adc_reference": "Arduino DEFAULT (nominal 5 V)",
+  "packet": {
+    "size_bytes": 14,
+    "sync_hex": "A55A",
+    "endianness": "little",
+    "payload": "uint32 index, uint16 A0, uint16 A1, uint16 A2",
+    "crc": "CRC-16/CCITT-FALSE over payload",
+    "binary_contains": "validated complete packets only"
+  },
+  "rows": 1586,
+  "first_sample_index": 914194,
+  "last_sample_index": 915779,
+  "missing_sample_groups": 0,
+  "crc_errors_during_record": 0,
+  "discarded_bytes_during_record": 0,
+  "events": [
+    {
+      "sample_index": 914193,
+      "elapsed_seconds": null,
+      "phase": "RECORD_START",
+      "target_label": "약지 움직임",
+      "trial_id": 0,
+      "computer_time": "2026-09-02T22:16:11.907"
+    },
+    {
+      "sample_index": 915779,
+      "elapsed_seconds": 1.585,
+      "phase": "RECORD_STOP",
+      "target_label": "약지 움직임",
+      "trial_id": 0,
+      "computer_time": "2026-09-02T22:16:13.494"
+    }
+  ],
+  "files": {
+    "binary": "RAW_EMG_약지 움직임_20260902_221611_906.bin",
+    "csv": "RAW_EMG_약지 움직임_20260902_221611_906.csv"
+  }
+}

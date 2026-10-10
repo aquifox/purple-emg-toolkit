@@ -1,0 +1,81 @@
+{
+  "format_version": 2,
+  "sample_rate_hz": 1000,
+  "baud_rate": 500000,
+  "channels": [
+    "A0",
+    "A1",
+    "A2"
+  ],
+  "adc_bits": 10,
+  "adc_reference": "Arduino DEFAULT (nominal 5 V)",
+  "packet": {
+    "size_bytes": 14,
+    "sync_hex": "A55A",
+    "endianness": "little",
+    "payload": "uint32 index, uint16 A0, uint16 A1, uint16 A2",
+    "crc": "CRC-16/CCITT-FALSE over payload",
+    "binary_contains": "validated complete packets only"
+  },
+  "first_sample_index": 325202,
+  "last_sample_index": 333516,
+  "missing_sample_groups": 0,
+  "crc_errors_during_record": 0,
+  "discarded_bytes_during_record": 0,
+  "created_at": "2026-09-02T21:45:54.351",
+  "stopped_at": "2026-09-02T21:46:02.665",
+  "mode": "guided_trial",
+  "protocol_session_id": "20260902_214120",
+  "protocol_trial_number": 31,
+  "protocol_total_trials": 31,
+  "protocol_trial_completed": false,
+  "target_label": "약지 움직임",
+  "rows": 8315,
+  "events": [
+    {
+      "sample_index": 325201,
+      "elapsed_seconds": 274.093,
+      "phase": "BASELINE",
+      "target_label": "약지 움직임",
+      "trial_id": 31,
+      "computer_time": "2026-09-02T21:45:54.366"
+    },
+    {
+      "sample_index": 328216,
+      "elapsed_seconds": 277.108,
+      "phase": "READY",
+      "target_label": "약지 움직임",
+      "trial_id": 31,
+      "computer_time": "2026-09-02T21:45:57.381"
+    },
+    {
+      "sample_index": 329231,
+      "elapsed_seconds": 278.123,
+      "phase": "ACTION",
+      "target_label": "약지 움직임",
+      "trial_id": 31,
+      "computer_time": "2026-09-02T21:45:58.396"
+    },
+    {
+      "sample_index": 332245,
+      "elapsed_seconds": 281.137,
+      "phase": "RECOVERY",
+      "target_label": "약지 움직임",
+      "trial_id": 31,
+      "computer_time": "2026-09-02T21:46:01.411"
+    },
+    {
+      "sample_index": 333516,
+      "elapsed_seconds": 282.408,
+      "phase": "RECORD_STOP",
+      "target_label": "약지 움직임",
+      "trial_id": 31,
+      "computer_time": "2026-09-02T21:46:02.683"
+    }
+  ],
+  "source_combined_file": "RAW_EMG_무작위_파일럿_20260902_214120_255.csv",
+  "files": {
+    "binary": "RAW_EMG_약지 움직임_무작위_20260902_214120_회차031.bin",
+    "csv": "RAW_EMG_약지 움직임_무작위_20260902_214120_회차031.csv"
+  }
+}

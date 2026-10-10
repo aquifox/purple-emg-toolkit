@@ -1,0 +1,679 @@
+{
+  "created_at": "2026-09-02T23:10:28",
+  "preflight": {
+    "ready_to_train": true,
+    "completed_guided_sessions": 3,
+    "trial_counts": {
+      "검지 움직임": 80,
+      "중지 움직임": 114,
+      "약지 움직임": 127,
+      "주먹 쥐기": 81,
+      "휴식": 120
+    },
+    "per_session_counts": {
+      "manual_2026-08-29": {
+        "검지 움직임": 0,
+        "중지 움직임": 34,
+        "약지 움직임": 37,
+        "주먹 쥐기": 0,
+        "휴식": 38
+      },
+      "manual_2026-09-02": {
+        "검지 움직임": 73,
+        "중지 움직임": 73,
+        "약지 움직임": 83,
+        "주먹 쥐기": 81,
+        "휴식": 75
+      },
+      "20260902_214120": {
+        "검지 움직임": 7,
+        "중지 움직임": 7,
+        "약지 움직임": 7,
+        "주먹 쥐기": 0,
+        "휴식": 7
+      }
+    },
+    "median_filtered_rms_adc": {
+      "약지 움직임": [
+        11.952616691589355,
+        39.582210540771484,
+        5.109743118286133
+      ],
+      "중지 움직임": [
+        7.73427677154541,
+        7.340788125991821,
+        15.661076068878174
+      ],
+      "휴식": [
+        0.8781620264053345,
+        0.6449154019355774,
+        1.3240670561790466
+      ],
+      "검지 움직임": [
+        2.900514245033264,
+        2.978888750076294,
+        7.536359548568726
+      ],
+      "주먹 쥐기": [
+        18.655475616455078,
+        34.71083450317383,
+        10.373912811279297
+      ]
+    },
+    "included_trials": 522,
+    "excluded_trials": 0,
+    "ignored_or_incomplete_sessions": 0,
+    "warnings": [],
+    "blockers": [],
+    "policy": {
+      "input": "latest date folder: valid manual and guided recordings",
+      "used_phase": "manual full record; guided ACTION only",
+      "trim_samples": {
+        "start": 250,
+        "end": 150
+      },
+      "older_date_folders": "ignored"
+    }
+  },
+  "split": {
+    "mode": "chronological_trial_holdout_same_date",
+    "reliability": "provisional: later trials are held out, but a new electrode attachment is not tested",
+    "sessions": {
+      "all": [
+        "20260902_214120",
+        "manual_2026-08-29",
+        "manual_2026-09-02"
+      ]
+    }
+  },
+  "split_trial_counts": {
+    "train": {
+      "약지 움직임": 77,
+      "중지 움직임": 68,
+      "휴식": 72,
+      "검지 움직임": 48,
+      "주먹 쥐기": 49
+    },
+    "validation": {
+      "검지 움직임": 16,
+      "약지 움직임": 25,
+      "주먹 쥐기": 16,
+      "중지 움직임": 23,
+      "휴식": 24
+    },
+    "test": {
+      "검지 움직임": 16,
+      "약지 움직임": 25,
+      "주먹 쥐기": 16,
+      "중지 움직임": 23,
+      "휴식": 24
+    }
+  },
+  "window_counts": {
+    "train": {
+      "all": 1434,
+      "active_gesture": 1090
+    },
+    "validation": {
+      "all": 365,
+      "active_gesture": 269
+    },
+    "test": {
+      "all": 318,
+      "active_gesture": 213
+    }
+  },
+  "activation": {
+    "selected_on_ratio": 1.841506083348815,
+    "selected_off_ratio": 1.2890542583441704,
+    "validation_selection": {
+      "sensitivity": 1.0,
+      "minimum_gesture_sensitivity": 1.0,
+      "per_gesture_sensitivity": {
+        "검지 움직임": 1.0,
+        "약지 움직임": 1.0,
+        "주먹 쥐기": 1.0,
+        "중지 움직임": 1.0
+      },
+      "specificity": 0.5520833333333334,
+      "balanced_accuracy": 0.7760416666666667
+    },
+    "validation": {
+      "windows": 365,
+      "sensitivity": 1.0,
+      "specificity": 0.5520833333333334,
+      "balanced_accuracy": 0.7760416666666667,
+      "false_activation_rate": 0.44791666666666663,
+      "false_positive_windows": 43,
+      "false_negative_windows": 0
+    },
+    "test": {
+      "windows": 318,
+      "sensitivity": 0.9483568075117371,
+      "specificity": 0.7523809523809524,
+      "balanced_accuracy": 0.8503688799463447,
+      "false_activation_rate": 0.24761904761904763,
+      "false_positive_windows": 26,
+      "false_negative_windows": 11
+    }
+  },
+  "rf": {
+    "active_gesture_test": {
+      "window_argmax_accuracy": 0.8685446009389671,
+      "window_macro_f1_with_unknown": 0.8430884120832285,
+      "window_coverage": 0.92018779342723,
+      "trial_accuracy_with_unknown": 0.7875,
+      "trial_macro_f1_with_unknown": 0.8195876099032484,
+      "trial_coverage": 0.925,
+      "confidence_threshold": 0.51,
+      "per_class_trials": {
+        "검지 움직임": {
+          "precision": 0.8333333333333334,
+          "recall": 0.9375,
+          "f1": 0.8823529411764706,
+          "support": 16
+        },
+        "중지 움직임": {
+          "precision": 1.0,
+          "recall": 0.782608695652174,
+          "f1": 0.8780487804878049,
+          "support": 23
+        },
+        "약지 움직임": {
+          "precision": 1.0,
+          "recall": 0.56,
+          "f1": 0.717948717948718,
+          "support": 25
+        },
+        "주먹 쥐기": {
+          "precision": 0.6666666666666666,
+          "recall": 1.0,
+          "f1": 0.8,
+          "support": 16
+        }
+      },
+      "confusion_trials_argmax": {
+        "labels": [
+          "검지 움직임",
+          "중지 움직임",
+          "약지 움직임",
+          "주먹 쥐기"
+        ],
+        "matrix": [
+          [
+            16,
+            0,
+            0,
+            0
+          ],
+          [
+            5,
+            18,
+            0,
+            0
+          ],
+          [
+            3,
+            0,
+            14,
+            8
+          ],
+          [
+            0,
+            0,
+            0,
+            16
+          ]
+        ],
+        "note": "unknown predictions are included in scores but omitted from this compact matrix"
+      },
+      "mean_trial_confidence": 0.7864074956894211
+    },
+    "end_to_end_four_state_test": {
+      "trial_accuracy": 0.7692307692307693,
+      "trial_macro_f1": 0.787065637065637,
+      "unknown_trials": 5,
+      "per_class": {
+        "검지 움직임": {
+          "precision": 0.6666666666666666,
+          "recall": 0.875,
+          "f1": 0.7567567567567568,
+          "support": 16
+        },
+        "중지 움직임": {
+          "precision": 0.9473684210526315,
+          "recall": 0.782608695652174,
+          "f1": 0.8571428571428571,
+          "support": 23
+        },
+        "약지 움직임": {
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1": 0.75,
+          "support": 25
+        },
+        "주먹 쥐기": {
+          "precision": 0.6153846153846154,
+          "recall": 1.0,
+          "f1": 0.7619047619047619,
+          "support": 16
+        },
+        "휴식": {
+          "precision": 0.9444444444444444,
+          "recall": 0.7083333333333334,
+          "f1": 0.8095238095238095,
+          "support": 24
+        }
+      },
+      "confusion": {
+        "labels": [
+          "검지 움직임",
+          "중지 움직임",
+          "약지 움직임",
+          "주먹 쥐기",
+          "휴식",
+          "판정 보류"
+        ],
+        "matrix": [
+          [
+            14,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            3,
+            18,
+            0,
+            0,
+            0,
+            2
+          ],
+          [
+            0,
+            0,
+            15,
+            10,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            16,
+            0,
+            0
+          ],
+          [
+            4,
+            1,
+            0,
+            0,
+            17,
+            2
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    }
+  },
+  "cnn": {
+    "active_gesture_test": {
+      "window_argmax_accuracy": 0.9295774647887324,
+      "window_macro_f1_with_unknown": 0.924836840418334,
+      "window_coverage": 1.0,
+      "trial_accuracy_with_unknown": 0.925,
+      "trial_macro_f1_with_unknown": 0.9230506129460834,
+      "trial_coverage": 1.0,
+      "confidence_threshold": 0.36500000000000005,
+      "per_class_trials": {
+        "검지 움직임": {
+          "precision": 0.7619047619047619,
+          "recall": 1.0,
+          "f1": 0.8648648648648649,
+          "support": 16
+        },
+        "중지 움직임": {
+          "precision": 1.0,
+          "recall": 0.782608695652174,
+          "f1": 0.8780487804878049,
+          "support": 23
+        },
+        "약지 움직임": {
+          "precision": 1.0,
+          "recall": 0.96,
+          "f1": 0.9795918367346939,
+          "support": 25
+        },
+        "주먹 쥐기": {
+          "precision": 0.9411764705882353,
+          "recall": 1.0,
+          "f1": 0.9696969696969697,
+          "support": 16
+        }
+      },
+      "confusion_trials_argmax": {
+        "labels": [
+          "검지 움직임",
+          "중지 움직임",
+          "약지 움직임",
+          "주먹 쥐기"
+        ],
+        "matrix": [
+          [
+            16,
+            0,
+            0,
+            0
+          ],
+          [
+            5,
+            18,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            24,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            16
+          ]
+        ],
+        "note": "unknown predictions are included in scores but omitted from this compact matrix"
+      },
+      "mean_trial_confidence": 0.882696682214737
+    },
+    "end_to_end_four_state_test": {
+      "trial_accuracy": 0.8653846153846154,
+      "trial_macro_f1": 0.8716206792194633,
+      "unknown_trials": 1,
+      "per_class": {
+        "검지 움직임": {
+          "precision": 0.75,
+          "recall": 0.9375,
+          "f1": 0.8333333333333334,
+          "support": 16
+        },
+        "중지 움직임": {
+          "precision": 0.75,
+          "recall": 0.782608695652174,
+          "f1": 0.7659574468085106,
+          "support": 23
+        },
+        "약지 움직임": {
+          "precision": 1.0,
+          "recall": 0.96,
+          "f1": 0.9795918367346939,
+          "support": 25
+        },
+        "주먹 쥐기": {
+          "precision": 0.9411764705882353,
+          "recall": 1.0,
+          "f1": 0.9696969696969697,
+          "support": 16
+        },
+        "휴식": {
+          "precision": 0.9444444444444444,
+          "recall": 0.7083333333333334,
+          "f1": 0.8095238095238095,
+          "support": 24
+        }
+      },
+      "confusion": {
+        "labels": [
+          "검지 움직임",
+          "중지 움직임",
+          "약지 움직임",
+          "주먹 쥐기",
+          "휴식",
+          "판정 보류"
+        ],
+        "matrix": [
+          [
+            15,
+            0,
+            0,
+            0,
+            1,
+            0
+          ],
+          [
+            5,
+            18,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            24,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            16,
+            0,
+            0
+          ],
+          [
+            0,
+            6,
+            0,
+            0,
+            17,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    "best_epoch": 18,
+    "history": [
+      {
+        "epoch": 1,
+        "validation_loss": 0.9700523614883423,
+        "validation_accuracy": 0.6728624535315985
+      },
+      {
+        "epoch": 2,
+        "validation_loss": 0.6289945244789124,
+        "validation_accuracy": 0.8364312267657993
+      },
+      {
+        "epoch": 3,
+        "validation_loss": 0.417420893907547,
+        "validation_accuracy": 0.895910780669145
+      },
+      {
+        "epoch": 4,
+        "validation_loss": 0.32560908794403076,
+        "validation_accuracy": 0.8438661710037175
+      },
+      {
+        "epoch": 5,
+        "validation_loss": 0.48315784335136414,
+        "validation_accuracy": 0.8550185873605948
+      },
+      {
+        "epoch": 6,
+        "validation_loss": 0.2181001603603363,
+        "validation_accuracy": 0.9368029739776952
+      },
+      {
+        "epoch": 7,
+        "validation_loss": 0.206041157245636,
+        "validation_accuracy": 0.9330855018587361
+      },
+      {
+        "epoch": 8,
+        "validation_loss": 0.22624942660331726,
+        "validation_accuracy": 0.9368029739776952
+      },
+      {
+        "epoch": 9,
+        "validation_loss": 0.22640827298164368,
+        "validation_accuracy": 0.9368029739776952
+      },
+      {
+        "epoch": 10,
+        "validation_loss": 0.32790839672088623,
+        "validation_accuracy": 0.9033457249070632
+      },
+      {
+        "epoch": 11,
+        "validation_loss": 0.13522092998027802,
+        "validation_accuracy": 0.9516728624535316
+      },
+      {
+        "epoch": 12,
+        "validation_loss": 0.2806411385536194,
+        "validation_accuracy": 0.895910780669145
+      },
+      {
+        "epoch": 13,
+        "validation_loss": 0.1586420089006424,
+        "validation_accuracy": 0.9368029739776952
+      },
+      {
+        "epoch": 14,
+        "validation_loss": 0.25606417655944824,
+        "validation_accuracy": 0.9107806691449815
+      },
+      {
+        "epoch": 15,
+        "validation_loss": 0.42251184582710266,
+        "validation_accuracy": 0.8996282527881041
+      },
+      {
+        "epoch": 16,
+        "validation_loss": 0.23571500182151794,
+        "validation_accuracy": 0.8736059479553904
+      },
+      {
+        "epoch": 17,
+        "validation_loss": 0.2705317735671997,
+        "validation_accuracy": 0.895910780669145
+      },
+      {
+        "epoch": 18,
+        "validation_loss": 0.1307537704706192,
+        "validation_accuracy": 0.9553903345724907
+      },
+      {
+        "epoch": 19,
+        "validation_loss": 0.2068316787481308,
+        "validation_accuracy": 0.9442379182156134
+      },
+      {
+        "epoch": 20,
+        "validation_loss": 0.616252064704895,
+        "validation_accuracy": 0.8327137546468402
+      },
+      {
+        "epoch": 21,
+        "validation_loss": 0.25634250044822693,
+        "validation_accuracy": 0.8884758364312267
+      },
+      {
+        "epoch": 22,
+        "validation_loss": 0.18803006410598755,
+        "validation_accuracy": 0.9516728624535316
+      },
+      {
+        "epoch": 23,
+        "validation_loss": 0.45498189330101013,
+        "validation_accuracy": 0.8921933085501859
+      },
+      {
+        "epoch": 24,
+        "validation_loss": 0.2218332439661026,
+        "validation_accuracy": 0.929368029739777
+      },
+      {
+        "epoch": 25,
+        "validation_loss": 0.17115281522274017,
+        "validation_accuracy": 0.9479553903345725
+      },
+      {
+        "epoch": 26,
+        "validation_loss": 0.2840600609779358,
+        "validation_accuracy": 0.9256505576208178
+      },
+      {
+        "epoch": 27,
+        "validation_loss": 0.16690319776535034,
+        "validation_accuracy": 0.9107806691449815
+      },
+      {
+        "epoch": 28,
+        "validation_loss": 0.171064093708992,
+        "validation_accuracy": 0.9442379182156134
+      },
+      {
+        "epoch": 29,
+        "validation_loss": 0.18275295197963715,
+        "validation_accuracy": 0.9144981412639405
+      },
+      {
+        "epoch": 30,
+        "validation_loss": 0.19998981058597565,
+        "validation_accuracy": 0.895910780669145
+      },
+      {
+        "epoch": 31,
+        "validation_loss": 0.21539761126041412,
+        "validation_accuracy": 0.929368029739777
+      },
+      {
+        "epoch": 32,
+        "validation_loss": 0.34155309200286865,
+        "validation_accuracy": 0.8252788104089219
+      },
+      {
+        "epoch": 33,
+        "validation_loss": 0.1643611490726471,
+        "validation_accuracy": 0.9256505576208178
+      },
+      {
+        "epoch": 34,
+        "validation_loss": 0.21551568806171417,
+        "validation_accuracy": 0.9368029739776952
+      }
+    ]
+  },
+  "recommended_model": "1D CNN",
+  "interpretation": {
+    "primary_metric": "end-to-end four-state trial macro F1 on test split",
+    "important_limitation": "provisional: later trials are held out, but a new electrode attachment is not tested",
+    "window_counts_are_not_independent_trials": true
+  }
+}
